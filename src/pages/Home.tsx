@@ -5,11 +5,12 @@ import PropertyCard from '../components/PropertyCard'
 import VideoCard from '../components/VideoCard'
 import Photo from '../components/Photo'
 import { AgenciesSection, SocialStats, ZoneCard } from '../components/Blocks'
-import { ArrowRight, Camera, Facebook, Instagram, Map, Pin, Play, Sparkle, TikTok, WhatsApp, YouTube } from '../components/Icons'
+import { ArrowRight, Camera, Facebook, Instagram, Map, Pin, Play, Sparkle, TikTok, Tour, WhatsApp, YouTube } from '../components/Icons'
 import { LISTINGS, TOTAL_PHOTOS, ZONES, formatPrice, shortLocation, zoneCount, type Rubrique } from '../lib/listings'
 import { VIDEOS, SOCIAL } from '../data/videos'
 import { AGENCIES } from '../data/agences'
 import { hasVideo } from '../lib/videos'
+import { visiteFor } from '../lib/visites'
 import { useCountUp, useRevealAll } from '../hooks/useReveal'
 import villa1 from '../assets/hero/villa-1.jpg'
 import villa2 from '../assets/hero/villa-2.jpg'
@@ -38,7 +39,7 @@ function Stat({ value, label }: { value: number; label: string }) {
   )
 }
 
-const FEATURED_ID = '137794' // Villa S+5 avec piscine — bien mis en avant dans le hero
+const FEATURED_ID = '136908' // Villa S+4 avec piscine à Raoued (Ref4313a) — reel Instagram + visite virtuelle
 
 export default function Home() {
   const [tab, setTab] = useState<Rubrique>('acheter')
@@ -105,6 +106,10 @@ export default function Home() {
           <Link to={`/bien/${hero.id}`} className="hero-feature hide-mobile hero-anim">
             <Photo src={hero.photos[0]} alt={hero.titre} tone="ph-dark" className="hero-feature-media">
               <span className="hero-photos"><Camera size={13} /> {hero.photos.length} photos</span>
+              <span className="hero-media-tags">
+                {hasVideo(hero) && <span><Play size={12} /> Vidéo</span>}
+                {visiteFor(hero) && <span><Tour size={12} /> Visite 360°</span>}
+              </span>
             </Photo>
             <div className="hero-feature-body">
               <div className="row" style={{ gap: 8 }}>

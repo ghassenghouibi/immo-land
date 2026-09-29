@@ -3,15 +3,19 @@ import { Link, Navigate, useParams } from 'react-router-dom'
 import Photo from '../components/Photo'
 import PropertyCard from '../components/PropertyCard'
 import { MapMock } from '../components/Blocks'
+import SatelliteMap from '../components/SatelliteMap'
 import { EmbedFrame, VideoModal } from '../components/VideoPlayer'
-import { ArrowRight, Camera, Check, ChevronLeft, ChevronRight, Clock, Heart, Instagram, Phone, Pin, Play, PlayFilled, Share, TikTok, Tour, WhatsApp, X } from '../components/Icons'
+import { ArrowRight, Camera, Check, ChevronLeft, ChevronRight, Clock, Heart, Instagram, Phone, Pin, Play, PlayFilled, Share, TikTok, Tour, WhatsApp, X, Bag, School, Health, Bus, Leaf } from '../components/Icons'
 import { byId, formatPrice, pricePerM2, similar, zoneOf, RUBRIQUE_LABEL } from '../lib/listings'
 import { videosFor } from '../lib/videos'
 import { tourEmbedSrc, visiteFor } from '../lib/visites'
+import { formatDistance, proximiteFor, PROX_LABEL, type ProxCategory } from '../lib/proximite'
 import { agencyBySlug } from '../data/agences'
 import { SOCIAL, type VideoItem } from '../data/videos'
 import { useFavorites } from '../hooks/useFavorites'
 import './Property.css'
+
+const PROX_ICON: Record<ProxCategory, typeof Bag> = { commerces: Bag, ecoles: School, sante: Health, transports: Bus, loisirs: Leaf }
 
 function paragraphs(desc: string): string[] {
   // Les descriptions sont sur une ligne : on coupe après ~2 phrases.
@@ -54,6 +58,8 @@ export default function Property() {
   const tour = visiteFor(l)
   const activeVideo = vids[vidIdx] ?? mainVideo
   const hasMediaTabs = Boolean(mainVideo || tour)
+  const prox = proximiteFor(l)
+  const proxCats = prox ? (Object.keys(PROX_LABEL) as ProxCategory[]).filter((c) => prox.places[c]?.length) : []
   const fav = has(l.id)
   const zone = zoneOf(l)
   const rubrique = l.rubriques[0]
@@ -235,9 +241,40 @@ export default function Property() {
             </section>
           )}
 
+          {prox && proxCats.length > 0 && (
+            <section className="pp-block">
+              <h2 className="pp-h2">À proximité</h2>
+              <div className="pp-prox">
+                {proxCats.map((c) => {
+                  const Icon = PROX_ICON[c]
+                  return (
+                    <div key={c} className="pp-prox-cat">
+                      <div className="pp-prox-head"><span className="pp-prox-ico"><Icon size={18} /></span> {PROX_LABEL[c]}</div>
+                      <ul>
+                        {prox.places[c]!.map((p) => (
+                          <li key={p.name}>
+                            <div><strong>{p.name}</strong><span className="small muted">{p.kind}</span></div>
+                            <span className="small pp-prox-dist">{formatDistance(p.m)}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )
+                })}
+              </div>
+              <p className="small muted mt-16">
+                Distances à vol d'oiseau depuis {prox.precise ? `le centre de ${l.localite}` : `le centre de ${l.delegation}`}, l'adresse exacte étant communiquée en agence. Données © OpenStreetMap.
+              </p>
+            </section>
+          )}
+
           <section className="pp-block">
             <h2 className="pp-h2">Adresse</h2>
-            <MapMock single height={300} />
+            {prox ? (
+              <SatelliteMap lat={prox.lat} lng={prox.lng} seed={l.id} label={l.localite} height={340} />
+            ) : (
+              <MapMock single height={300} />
+            )}
             <div className="row wrap mt-16 small">
               <span className="muted">{l.adresse_complete.split(', ').reverse().join(' · ')}</span>
               <a className="link" href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(l.adresse_complete)}`} target="_blank" rel="noreferrer">

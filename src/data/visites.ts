@@ -23,5 +23,6 @@ export interface VisiteItem {
 }
 
 export const VISITES: VisiteItem[] = [
-  // { ref: 'Ref4335a', url: 'https://my.matterport.com/show/?m=REMPLACER' },
+  // Visite de démonstration (Matterport public) en attendant la vraie captation du bien
+  { ref: 'Ref4313a', url: 'https://my.matterport.com/show/?m=JGPnGQ6hosj' },
 ]

@@ -1,0 +1,332 @@
+{
+ "Ain Zaghouan Nord|Ain Zaghouan": {
+  "lat": 36.85483,
+  "lng": 10.28476,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "بقالة",
+     "kind": "Épicerie",
+     "m": 757
+    },
+    {
+     "name": "Aziza",
+     "kind": "Supermarché",
+     "m": 801
+    },
+    {
+     "name": "Carrefour Market",
+     "kind": "Supermarché",
+     "m": 916
+    },
+    {
+     "name": "Tunisia Mall",
+     "kind": "Centre commercial",
+     "m": 926
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Crèche Babyland",
+     "kind": "Jardin d'enfants",
+     "m": 1011
+    },
+    {
+     "name": "Collège cité Salema",
+     "kind": "École",
+     "m": 1063
+    },
+    {
+     "name": "L'Academie du Lac",
+     "kind": "École",
+     "m": 1222
+    },
+    {
+     "name": "Lycée les Berges du Lac",
+     "kind": "École",
+     "m": 1275
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Olfa Znazen",
+     "kind": "Pharmacie",
+     "m": 474
+    },
+    {
+     "name": "Clinique Hannibal",
+     "kind": "Clinique",
+     "m": 1032
+    },
+    {
+     "name": "Hannibal Medical Center",
+     "kind": "Hôpital",
+     "m": 1032
+    },
+    {
+     "name": "Lac Medical Center",
+     "kind": "Cabinet médical",
+     "m": 1038
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Daily Food",
+     "kind": "Restaurant",
+     "m": 312
+    },
+    {
+     "name": "China Town Resto",
+     "kind": "Restaurant",
+     "m": 364
+    },
+    {
+     "name": "The Game Production",
+     "kind": "Café",
+     "m": 443
+    },
+    {
+     "name": "Goomba's Pizza",
+     "kind": "Restaurant",
+     "m": 446
+    }
+   ]
+  }
+ },
+ "Ariana|Ariana Ville": {
+  "lat": 36.85874,
+  "lng": 10.18823,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Boulangerie Mefteh",
+     "kind": "Boulangerie",
+     "m": 152
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 184
+    },
+    {
+     "name": "مواد غذائية عامة",
+     "kind": "Épicerie",
+     "m": 211
+    },
+    {
+     "name": "بيع العسل يعيش",
+     "kind": "Épicerie",
+     "m": 254
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège 18 janvier 1952",
+     "kind": "École",
+     "m": 250
+    },
+    {
+     "name": "École Primaire Farhat Hached",
+     "kind": "École",
+     "m": 275
+    },
+    {
+     "name": "ISI",
+     "kind": "Université",
+     "m": 278
+    },
+    {
+     "name": "Parking ISI",
+     "kind": "Université",
+     "m": 324
+    }
+   ],
+   "sante": [
+    {
+     "name": "Dr halleb monsef",
+     "kind": "Cabinet médical",
+     "m": 183
+    },
+    {
+     "name": "Dentiste Rahma Sfaxi",
+     "kind": "Dentiste",
+     "m": 205
+    },
+    {
+     "name": "Médecin généraliste Mounir Doghri",
+     "kind": "Cabinet médical",
+     "m": 211
+    },
+    {
+     "name": "صيدلية قرزة",
+     "kind": "Pharmacie",
+     "m": 212
+    }
+   ],
+   "transports": [
+    {
+     "name": "Ariana",
+     "kind": "Gare",
+     "m": 831
+    },
+    {
+     "name": "L'Indépendance",
+     "kind": "Gare",
+     "m": 837
+    },
+    {
+     "name": "station de rabattement Ariana",
+     "kind": "Gare",
+     "m": 900
+    },
+    {
+     "name": "Cité des sciences",
+     "kind": "Arrêt TGM / train",
+     "m": 1357
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "البرنس",
+     "kind": "Restaurant",
+     "m": 79
+    },
+    {
+     "name": "La Medina",
+     "kind": "Restaurant",
+     "m": 102
+    },
+    {
+     "name": "Ya Ya",
+     "kind": "Restaurant",
+     "m": 117
+    },
+    {
+     "name": "مقهى الكومانجي",
+     "kind": "Café",
+     "m": 120
+    }
+   ]
+  }
+ },
+ "Ariana Essoughra|Raoued": {
+  "lat": 36.9536,
+  "lng": 10.18919,
+  "precise": false,
+  "places": {}
+ },
+ "Borj Louzir|La Soukra": {
+  "lat": 36.86065,
+  "lng": 10.2087,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "carrefour",
+     "kind": "Supermarché",
+     "m": 50
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 736
+    },
+    {
+     "name": "Pâtisserie le Bhar",
+     "kind": "Boulangerie",
+     "m": 1196
+    },
+    {
+     "name": "خبز طابونا العثماني",
+     "kind": "Boulangerie",
+     "m": 1345
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Supérieure de l’Aéronautique et des Technologies",
+     "kind": "Université",
+     "m": 809
+    },
+    {
+     "name": "École de Formation Professionnelle",
+     "kind": "École",
+     "m": 987
+    },
+    {
+     "name": "Ecole Supérieure de Technologie et d'Informatique",
+     "kind": "Lycée / Institut",
+     "m": 1020
+    },
+    {
+     "name": "Institut Superieur des études tecnologique de Charguia ISET de Charguia",
+     "kind": "Lycée / Institut",
+     "m": 1068
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie de nuit",
+     "kind": "Pharmacie",
+     "m": 672
+    },
+    {
+     "name": "Pharmacie Hassen Ben Hfaiedh",
+     "kind": "Pharmacie",
+     "m": 964
+    },
+    {
+     "name": "Cabinet Dr.Lobna KHALDI",
+     "kind": "Dentiste",
+     "m": 1101
+    },
+    {
+     "name": "Pharmacie Kamoun Soukra",
+     "kind": "Pharmacie",
+     "m": 1297
+    }
+   ],
+   "transports": [
+    {
+     "name": "station de rabattement Ariana",
+     "kind": "Gare",
+     "m": 937
+    },
+    {
+     "name": "Ariana",
+     "kind": "Gare",
+     "m": 1003
+    },
+    {
+     "name": "L'Indépendance",
+     "kind": "Gare",
+     "m": 1334
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Napoli",
+     "kind": "Restaurant",
+     "m": 37
+    },
+    {
+     "name": "Take 5",
+     "kind": "Restaurant",
+     "m": 46
+    },
+    {
+     "name": "Le Coin Bleu",
+     "kind": "Café",
+     "m": 263
+    },
+    {
+     "name": "Café Aziz",
+     "kind": "Café",
+     "m": 296
+    }
+   ]
+  }
+ }
+}

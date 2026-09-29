@@ -50,7 +50,22 @@ export const Play = ({ size, ...p }: P) => (
 export const Tour = ({ size, ...p }: P) => (
   <svg {...base(size)} {...p}><ellipse cx="12" cy="12" rx="9" ry="4"/><path d="M12 3a9 9 0 0 1 0 18M12 3a9 9 0 0 0 0 18"/><path d="m17 16.5 2 1-1 2"/></svg>
 )
-export const PlayFilled =({ size, ...p }: P) => (
+export const Bag = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}><path d="M5 8h14l-1 12H6z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>
+)
+export const School = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}><path d="m2 9 10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5M22 9v6"/></svg>
+)
+export const Health = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}><rect x="3" y="3" width="18" height="18" rx="3"/><path d="M12 8v8M8 12h8"/></svg>
+)
+export const Bus = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}><rect x="4" y="3" width="16" height="15" rx="3"/><path d="M4 11h16M8 21v-3M16 21v-3"/><circle cx="8" cy="14.5" r=".5"/><circle cx="16" cy="14.5" r=".5"/></svg>
+)
+export const Leaf = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}><path d="M5 19c0-8 5-14 15-14 0 10-6 15-14 15"/><path d="M5 19 13 11"/></svg>
+)
+export const PlayFilled = ({ size, ...p }: P) => (
   <svg {...base(size)} {...p} fill="currentColor" stroke="none"><path d="M8 5v14l11-7z"/></svg>
 )
 export const Search = ({ size, ...p }: P) => (
