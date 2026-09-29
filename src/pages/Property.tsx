@@ -3,10 +3,11 @@ import { Link, Navigate, useParams } from 'react-router-dom'
 import Photo from '../components/Photo'
 import PropertyCard from '../components/PropertyCard'
 import { MapMock } from '../components/Blocks'
-import { VideoModal } from '../components/VideoPlayer'
-import { ArrowRight, Camera, Check, ChevronLeft, ChevronRight, Clock, Heart, Instagram, Phone, Pin, Play, PlayFilled, Share, TikTok, WhatsApp, X } from '../components/Icons'
+import { EmbedFrame, VideoModal } from '../components/VideoPlayer'
+import { ArrowRight, Camera, Check, ChevronLeft, ChevronRight, Clock, Heart, Instagram, Phone, Pin, Play, PlayFilled, Share, TikTok, Tour, WhatsApp, X } from '../components/Icons'
 import { byId, formatPrice, pricePerM2, similar, zoneOf, RUBRIQUE_LABEL } from '../lib/listings'
 import { videosFor } from '../lib/videos'
+import { tourEmbedSrc, visiteFor } from '../lib/visites'
 import { agencyBySlug } from '../data/agences'
 import { SOCIAL, type VideoItem } from '../data/videos'
 import { useFavorites } from '../hooks/useFavorites'
@@ -27,8 +28,10 @@ export default function Property() {
   const [lightbox, setLightbox] = useState<number | null>(null)
   const [video, setVideo] = useState<VideoItem | null>(null)
   const [copied, setCopied] = useState(false)
+  const [media, setMedia] = useState<'photos' | 'video' | 'visite'>('photos')
+  const [vidIdx, setVidIdx] = useState(0)
 
-  useEffect(() => { window.scrollTo({ top: 0 }) }, [id])
+  useEffect(() => { window.scrollTo({ top: 0 }); setMedia('photos'); setVidIdx(0) }, [id])
   useEffect(() => {
     if (lightbox === null) return
     const onKey = (e: KeyboardEvent) => {
@@ -48,6 +51,9 @@ export default function Property() {
   const agency = agencyBySlug(l.agenceSlug)
   const vids = videosFor(l)
   const mainVideo = vids[0]
+  const tour = visiteFor(l)
+  const activeVideo = vids[vidIdx] ?? mainVideo
+  const hasMediaTabs = Boolean(mainVideo || tour)
   const fav = has(l.id)
   const zone = zoneOf(l)
   const rubrique = l.rubriques[0]
@@ -89,29 +95,90 @@ export default function Property() {
         </div>
       </div>
 
-      {/* ---------- Galerie ---------- */}
-      <div className={`pp-gallery ${l.photos.length < 2 ? 'single' : ''}`}>
-        <button className="pp-g-main" onClick={() => setLightbox(0)}>
-          <Photo src={l.photos[0]} alt={l.titre} />
-          <span className="pp-g-count"><Camera size={16} /> Voir les {l.photos.length} photos</span>
-        </button>
-        {l.photos.length >= 2 && (
-          <button className="pp-g-side" onClick={() => setLightbox(1)}>
-            <Photo src={l.photos[1]} alt="" tone="ph-lime" />
+      {/* ---------- Médias : photos / vidéo / visite virtuelle ---------- */}
+      {hasMediaTabs && (
+        <div className="pp-tabs" role="tablist" aria-label="Médias du bien">
+          <button role="tab" aria-selected={media === 'photos'} className={media === 'photos' ? 'on' : ''} onClick={() => setMedia('photos')}>
+            <Camera size={16} /> Photos <span>{l.photos.length}</span>
           </button>
-        )}
-        {mainVideo ? (
-          <button className="pp-g-side pp-g-video" onClick={() => setVideo(mainVideo)}>
-            <Photo src={l.photos[2]} alt="" tone="ph-dark"><span className="pp-g-shade" /></Photo>
-            <span className="vc-play"><PlayFilled size={22} /></span>
-            <span className="btn btn-lime btn-sm pp-g-cta"><Play size={15} /> Visite vidéo</span>
+          {mainVideo && (
+            <button role="tab" aria-selected={media === 'video'} className={media === 'video' ? 'on' : ''} onClick={() => setMedia('video')}>
+              <Play size={16} /> Vidéo{vids.length > 1 && <span>{vids.length}</span>}
+            </button>
+          )}
+          {tour && (
+            <button role="tab" aria-selected={media === 'visite'} className={media === 'visite' ? 'on' : ''} onClick={() => setMedia('visite')}>
+              <Tour size={16} /> Visite virtuelle 360°
+            </button>
+          )}
+        </div>
+      )}
+
+      {media === 'video' && activeVideo ? (
+        <div className="pp-stage pp-stage-video">
+          <div className="pp-reel"><EmbedFrame key={activeVideo.url} url={activeVideo.url} title={activeVideo.title} /></div>
+          <div className="pp-reel-info">
+            <span className="eyebrow">Visite vidéo</span>
+            <strong>{activeVideo.title}</strong>
+            {activeVideo.subtitle && <span className="small">{activeVideo.subtitle}</span>}
+            {vids.length > 1 && (
+              <div className="row wrap mt-16">
+                {vids.map((v, i) => (
+                  <button key={v.url} className={`chip chip-dark ${i === vidIdx ? 'on' : ''}`} onClick={() => setVidIdx(i)}><Play size={14} /> {v.title}</button>
+                ))}
+              </div>
+            )}
+            <a className="link small mt-16" href={activeVideo.url} target="_blank" rel="noreferrer">Ouvrir sur les réseaux <ArrowRight size={15} /></a>
+          </div>
+        </div>
+      ) : media === 'visite' && tour ? (
+        <div className="pp-stage">
+          {/REMPLACER/i.test(tour) ? (
+            <div className="vp-placeholder">
+              <Tour size={28} />
+              <p><strong>Visite virtuelle à renseigner</strong></p>
+              <p className="small">Collez le lien de la visite dans <code>src/data/visites.ts</code>.</p>
+            </div>
+          ) : (
+            <iframe
+              className="pp-tour"
+              src={tourEmbedSrc(tour)}
+              title={`Visite virtuelle 360° — ${l.titre}`}
+              allow="fullscreen; xr-spatial-tracking; gyroscope; accelerometer; autoplay"
+              allowFullScreen
+            />
+          )}
+        </div>
+      ) : (
+        <div className={`pp-gallery ${l.photos.length < 2 ? 'single' : ''}`}>
+          <button className="pp-g-main" onClick={() => setLightbox(0)}>
+            <Photo src={l.photos[0]} alt={l.titre} />
+            <span className="pp-g-count"><Camera size={16} /> Voir les {l.photos.length} photos</span>
           </button>
-        ) : l.photos.length >= 3 ? (
-          <button className="pp-g-side" onClick={() => setLightbox(2)}>
-            <Photo src={l.photos[2]} alt="" tone="ph-sky" />
-          </button>
-        ) : null}
-      </div>
+          {l.photos.length >= 2 && (
+            <button className="pp-g-side" onClick={() => setLightbox(1)}>
+              <Photo src={l.photos[1]} alt="" tone="ph-lime" />
+            </button>
+          )}
+          {mainVideo ? (
+            <button className="pp-g-side pp-g-video" onClick={() => setMedia('video')}>
+              <Photo src={l.photos[2]} alt="" tone="ph-dark"><span className="pp-g-shade" /></Photo>
+              <span className="vc-play"><PlayFilled size={22} /></span>
+              <span className="btn btn-lime btn-sm pp-g-cta"><Play size={15} /> Visite vidéo</span>
+            </button>
+          ) : tour ? (
+            <button className="pp-g-side pp-g-video" onClick={() => setMedia('visite')}>
+              <Photo src={l.photos[2] ?? l.photos[0]} alt="" tone="ph-dark"><span className="pp-g-shade" /></Photo>
+              <span className="vc-play"><Tour size={24} /></span>
+              <span className="btn btn-lime btn-sm pp-g-cta"><Tour size={15} /> Visite 360°</span>
+            </button>
+          ) : l.photos.length >= 3 ? (
+            <button className="pp-g-side" onClick={() => setLightbox(2)}>
+              <Photo src={l.photos[2]} alt="" tone="ph-sky" />
+            </button>
+          ) : null}
+        </div>
+      )}
 
       <div className="pp-layout">
         <div className="pp-main">

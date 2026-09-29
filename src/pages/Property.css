@@ -17,6 +17,25 @@
 .pp-g-shade { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(11,20,36,.2), rgba(11,20,36,.6)); z-index: 1; }
 .pp-g-cta { position: absolute; right: 16px; bottom: 16px; z-index: 2; }
 
+/* Onglets médias : photos / vidéo / visite virtuelle */
+.pp-tabs { display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 4px; margin-bottom: 14px; border: 1px solid var(--line); border-radius: var(--radius-sm); background: #fff; }
+.pp-tabs button { height: 40px; padding: 0 16px; border-radius: var(--radius-sm); display: inline-flex; align-items: center; gap: 8px; font-weight: 600; font-size: 14px; color: var(--muted); transition: background .15s, color .15s; }
+.pp-tabs button:hover { color: var(--ink); }
+.pp-tabs button.on { background: var(--navy); color: #fff; }
+.pp-tabs button span { font-size: 12px; padding: 1px 7px; border-radius: 99px; background: var(--line-2); color: var(--ink-2); }
+.pp-tabs button.on span { background: var(--lime); color: var(--navy); }
+
+.pp-stage { height: 532px; border-radius: var(--radius); overflow: hidden; background: var(--navy); display: flex; align-items: center; justify-content: center; }
+.pp-tour { width: 100%; height: 100%; border: 0; }
+.pp-stage-video { justify-content: flex-start; gap: 40px; padding: 0 48px 0 0; }
+.pp-reel { height: 100%; aspect-ratio: 9 / 16; background: #000; flex: none; display: flex; align-items: center; justify-content: center; }
+.pp-reel-info { color: #fff; display: flex; flex-direction: column; gap: 10px; max-width: 420px; }
+.pp-reel-info .eyebrow { color: var(--lime); }
+.pp-reel-info strong { font-family: var(--font-display); font-weight: 500; font-size: 26px; line-height: 1.25; }
+.pp-reel-info .small { color: #a9b6c9; }
+.pp-reel-info .link { color: #fff; display: inline-flex; }
+.pp-reel-info .chip.on { background: var(--lime); color: var(--navy); border-color: var(--lime); }
+
 .pp-layout { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: 40px; margin-top: 32px; align-items: start; }
 .pp-kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); }
 .pp-kpis > div { padding: 22px 24px; border-right: 1px solid var(--line-2); display: flex; flex-direction: column; gap: 8px; }
@@ -53,6 +72,12 @@
   .pp-gallery { grid-template-columns: 1fr 1fr; grid-template-rows: 240px 140px; }
   .pp-g-main { grid-column: span 2; grid-row: auto; }
   .pp-features, .pp-details { grid-template-columns: 1fr; }
+  .pp-tabs { display: flex; }
+  .pp-tabs button { flex: 1; justify-content: center; padding: 0 10px; }
+  .pp-stage { height: 420px; }
+  .pp-stage-video { height: auto; flex-direction: column; align-items: stretch; gap: 20px; padding: 0 0 24px; }
+  .pp-reel { height: 70vh; max-height: 600px; margin-inline: auto; }
+  .pp-reel-info { padding: 0 20px; }
   .pp-pricebox { text-align: left; }
   .lb { padding: 60px 12px; }
   .lb-nav { width: 40px; height: 40px; }

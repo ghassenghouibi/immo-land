@@ -47,7 +47,10 @@ export const Camera = ({ size, ...p }: P) => (
 export const Play = ({ size, ...p }: P) => (
   <svg {...base(size)} {...p}><path d="M7 5v14l11-7z"/></svg>
 )
-export const PlayFilled = ({ size, ...p }: P) => (
+export const Tour = ({ size, ...p }: P) => (
+  <svg {...base(size)} {...p}><ellipse cx="12" cy="12" rx="9" ry="4"/><path d="M12 3a9 9 0 0 1 0 18M12 3a9 9 0 0 0 0 18"/><path d="m17 16.5 2 1-1 2"/></svg>
+)
+export const PlayFilled =({ size, ...p }: P) => (
   <svg {...base(size)} {...p} fill="currentColor" stroke="none"><path d="M8 5v14l11-7z"/></svg>
 )
 export const Search = ({ size, ...p }: P) => (
