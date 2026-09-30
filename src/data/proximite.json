@@ -328,5 +328,5362 @@
     }
    ]
   }
+ },
+ "Carthage|Carthage": {
+  "lat": 36.85393,
+  "lng": 10.32226,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 563
+    },
+    {
+     "name": "Le Coin du Pain",
+     "kind": "Boulangerie",
+     "m": 1227
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Carthage Dermech",
+     "kind": "École",
+     "m": 736
+    },
+    {
+     "name": "Lycée Byrsa",
+     "kind": "École",
+     "m": 1035
+    },
+    {
+     "name": "École Primaire el Yaasmina",
+     "kind": "École",
+     "m": 1244
+    },
+    {
+     "name": "Lycée Carthage Présidence",
+     "kind": "École",
+     "m": 1319
+    }
+   ],
+   "sante": [
+    {
+     "name": "Clinique Carthage",
+     "kind": "Clinique",
+     "m": 748
+    },
+    {
+     "name": "Pharmacie Najjar",
+     "kind": "Pharmacie",
+     "m": 1206
+    },
+    {
+     "name": "Pharmacie Darmoul",
+     "kind": "Pharmacie",
+     "m": 1461
+    }
+   ],
+   "transports": [
+    {
+     "name": "Carthage Dermech",
+     "kind": "Gare",
+     "m": 516
+    },
+    {
+     "name": "Carthage Hannibal",
+     "kind": "Gare",
+     "m": 601
+    },
+    {
+     "name": "Carthage Byrsa",
+     "kind": "Gare",
+     "m": 857
+    },
+    {
+     "name": "Carthage Salammbô",
+     "kind": "Gare",
+     "m": 1389
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Villa Didon",
+     "kind": "Restaurant",
+     "m": 321
+    },
+    {
+     "name": "Le Macaron Mme Bouzguanda",
+     "kind": "Restaurant",
+     "m": 473
+    },
+    {
+     "name": "Le Phénix de Carthage",
+     "kind": "Restaurant",
+     "m": 524
+    },
+    {
+     "name": "site archéologique carthage dermech",
+     "kind": "Parc",
+     "m": 556
+    }
+   ]
+  }
+ },
+ "Chotrana 1|La Soukra": {
+  "lat": 36.8812,
+  "lng": 10.21182,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Carrefour Market",
+     "kind": "Supermarché",
+     "m": 830
+    }
+   ],
+   "sante": [
+    {
+     "name": "centre de santé de base cité Nassim",
+     "kind": "Hôpital",
+     "m": 1239
+    },
+    {
+     "name": "centre hospitalier cite Nassime",
+     "kind": "Hôpital",
+     "m": 1239
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "CAFÉ \"KENZA\"(Houma)",
+     "kind": "Café",
+     "m": 1230
+    }
+   ]
+  }
+ },
+ "Chotrana 2|La Soukra": {
+  "lat": 36.88525,
+  "lng": 10.24381,
+  "precise": true,
+  "places": {
+   "ecoles": [
+    {
+     "name": "Lycée soukra",
+     "kind": "École",
+     "m": 1012
+    },
+    {
+     "name": "فرحات حشاد",
+     "kind": "École",
+     "m": 1453
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hamdoun Larguech",
+     "kind": "Pharmacie",
+     "m": 1143
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "El Firma",
+     "kind": "Restaurant",
+     "m": 176
+    },
+    {
+     "name": "Vita'Bloc",
+     "kind": "Complexe sportif",
+     "m": 695
+    },
+    {
+     "name": "Golf de Carthage",
+     "kind": "Restaurant",
+     "m": 707
+    },
+    {
+     "name": "Les cygnes",
+     "kind": "Café",
+     "m": 1129
+    }
+   ]
+  }
+ },
+ "Chotrana 3|La Soukra": {
+  "lat": 36.8812,
+  "lng": 10.21182,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Carrefour Market",
+     "kind": "Supermarché",
+     "m": 830
+    }
+   ],
+   "sante": [
+    {
+     "name": "centre de santé de base cité Nassim",
+     "kind": "Hôpital",
+     "m": 1239
+    },
+    {
+     "name": "centre hospitalier cite Nassime",
+     "kind": "Hôpital",
+     "m": 1239
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "CAFÉ \"KENZA\"(Houma)",
+     "kind": "Café",
+     "m": 1230
+    }
+   ]
+  }
+ },
+ "Cite Bhar Lazreg|La Marsa": {
+  "lat": 36.84793,
+  "lng": 10.2612,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Marché Central l'Aouina",
+     "kind": "Supermarché",
+     "m": 272
+    },
+    {
+     "name": "Ephoria",
+     "kind": "Boulangerie",
+     "m": 581
+    },
+    {
+     "name": "Boulangerie Pâtisserie Bhar",
+     "kind": "Boulangerie",
+     "m": 612
+    },
+    {
+     "name": "7anout 7lima",
+     "kind": "Épicerie",
+     "m": 684
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "CIFFIP Lac 2",
+     "kind": "Université",
+     "m": 357
+    },
+    {
+     "name": "École Primaire Cité Mhiri",
+     "kind": "École",
+     "m": 378
+    },
+    {
+     "name": "Centre National Des Langues Tunis",
+     "kind": "Université",
+     "m": 422
+    },
+    {
+     "name": "École Primaire Route de la Soukra L'Aouina",
+     "kind": "École",
+     "m": 434
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Najet Hamouda Ep Binous",
+     "kind": "Pharmacie",
+     "m": 606
+    },
+    {
+     "name": "Helyna parapharmacie",
+     "kind": "Pharmacie",
+     "m": 848
+    },
+    {
+     "name": "PHARMACIE DE LA BOURSE",
+     "kind": "Pharmacie",
+     "m": 874
+    },
+    {
+     "name": "Pharmacie Wahat",
+     "kind": "Pharmacie",
+     "m": 1200
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café Blanc",
+     "kind": "Café",
+     "m": 278
+    },
+    {
+     "name": "قهوة منجي",
+     "kind": "Café",
+     "m": 330
+    },
+    {
+     "name": "Kafteji",
+     "kind": "Restaurant",
+     "m": 376
+    },
+    {
+     "name": "Café Victoire",
+     "kind": "Café",
+     "m": 407
+    }
+   ]
+  }
+ },
+ "Cite Des Juges 2|La Marsa": {
+  "lat": 36.88319,
+  "lng": 10.3158,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Aziza",
+     "kind": "Supermarché",
+     "m": 360
+    },
+    {
+     "name": "Le Pain Chaud",
+     "kind": "Boulangerie",
+     "m": 366
+    },
+    {
+     "name": "Ben Yaghlane La Marsa",
+     "kind": "Supermarché",
+     "m": 421
+    },
+    {
+     "name": "Le Royame des Epices",
+     "kind": "Épicerie",
+     "m": 445
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Mouhamed Ali Tabec",
+     "kind": "École",
+     "m": 708
+    },
+    {
+     "name": "Lycée Marsa El Riadh",
+     "kind": "Lycée / Institut",
+     "m": 744
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 901
+    },
+    {
+     "name": "École Primaire de la rue des Roses",
+     "kind": "École",
+     "m": 942
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Ali Farhat",
+     "kind": "Pharmacie",
+     "m": 460
+    },
+    {
+     "name": "Pharmacie Hela Rokbi",
+     "kind": "Pharmacie",
+     "m": 656
+    },
+    {
+     "name": "Pharmacie Annabi",
+     "kind": "Pharmacie",
+     "m": 720
+    },
+    {
+     "name": "Pharmacie Lobna Bouaziz Borji",
+     "kind": "Pharmacie",
+     "m": 745
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Ben Mehrez",
+     "kind": "Café",
+     "m": 378
+    },
+    {
+     "name": "Cafétaria BelHsen",
+     "kind": "Café",
+     "m": 391
+    },
+    {
+     "name": "Café El Haj Sassi",
+     "kind": "Café",
+     "m": 466
+    },
+    {
+     "name": "Pizza Primavera",
+     "kind": "Restaurant",
+     "m": 479
+    }
+   ]
+  }
+ },
+ "Cite Du Stade|La Marsa": {
+  "lat": 36.87673,
+  "lng": 10.32108,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Le Delice",
+     "kind": "Boulangerie",
+     "m": 351
+    },
+    {
+     "name": "Superette",
+     "kind": "Épicerie",
+     "m": 508
+    },
+    {
+     "name": "ChoPain",
+     "kind": "Boulangerie",
+     "m": 520
+    },
+    {
+     "name": "Karma Bio",
+     "kind": "Épicerie",
+     "m": 700
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Centre de Formation et d'Apprentissage de La Marsa",
+     "kind": "École",
+     "m": 497
+    },
+    {
+     "name": "Jardin d'Enfants \"Mon'ecole\"",
+     "kind": "Jardin d'enfants",
+     "m": 509
+    },
+    {
+     "name": "Collège Fadhhel Ben Achour",
+     "kind": "École",
+     "m": 523
+    },
+    {
+     "name": "École Primaire privée Amilcar",
+     "kind": "École",
+     "m": 605
+    }
+   ],
+   "sante": [
+    {
+     "name": "Clinique Sidi Salah",
+     "kind": "Clinique",
+     "m": 393
+    },
+    {
+     "name": "Hôpital des Forces de Securité Interieures (F.S.I)",
+     "kind": "Hôpital",
+     "m": 438
+    },
+    {
+     "name": "Pharmacie ibtissem Rais Zouiten",
+     "kind": "Pharmacie",
+     "m": 470
+    },
+    {
+     "name": "Docteur Ftouh Gynécologie",
+     "kind": "Cabinet médical",
+     "m": 502
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 1310
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Joe's Pizza",
+     "kind": "Restaurant",
+     "m": 326
+    },
+    {
+     "name": "El Mawaddah Coffee",
+     "kind": "Café",
+     "m": 346
+    },
+    {
+     "name": "Le Karibou",
+     "kind": "Café",
+     "m": 374
+    },
+    {
+     "name": "Café Abdelleya",
+     "kind": "Café",
+     "m": 395
+    }
+   ]
+  }
+ },
+ "Cite El Ghazala 1|Raoued": {
+  "lat": 36.9536,
+  "lng": 10.18919,
+  "precise": false,
+  "places": {}
+ },
+ "Cite El Khalil|La Marsa": {
+  "lat": 36.89744,
+  "lng": 10.29365,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Fattouma",
+     "kind": "Boulangerie",
+     "m": 227
+    },
+    {
+     "name": "Pâtisserie Ayem Zmen",
+     "kind": "Boulangerie",
+     "m": 529
+    },
+    {
+     "name": "Plaisirs Sucrés",
+     "kind": "Boulangerie",
+     "m": 598
+    },
+    {
+     "name": "El Baraka",
+     "kind": "Épicerie",
+     "m": 970
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Happy Kids",
+     "kind": "Jardin d'enfants",
+     "m": 893
+    },
+    {
+     "name": "King Kids",
+     "kind": "Jardin d'enfants",
+     "m": 1037
+    },
+    {
+     "name": "Le Petit Paradis",
+     "kind": "Jardin d'enfants",
+     "m": 1328
+    },
+    {
+     "name": "École Primaire Gammarth Harrouche",
+     "kind": "École",
+     "m": 1333
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Gammarth",
+     "kind": "Pharmacie",
+     "m": 897
+    },
+    {
+     "name": "Convalescence Gammarth",
+     "kind": "Clinique",
+     "m": 922
+    }
+   ],
+   "transports": [
+    {
+     "name": "Gammarth",
+     "kind": "Gare routière",
+     "m": 1297
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café Bellevue",
+     "kind": "Café",
+     "m": 405
+    },
+    {
+     "name": "Cafétaria L'Avenir",
+     "kind": "Café",
+     "m": 414
+    },
+    {
+     "name": "Café Essanawber",
+     "kind": "Café",
+     "m": 506
+    },
+    {
+     "name": "Café Elyes",
+     "kind": "Café",
+     "m": 544
+    }
+   ]
+  }
+ },
+ "Cite El Moez|La Marsa": {
+  "lat": 34.68466,
+  "lng": 10.7065,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "BUT",
+     "kind": "Supermarché",
+     "m": 271
+    },
+    {
+     "name": "Liliane",
+     "kind": "Épicerie",
+     "m": 480
+    },
+    {
+     "name": "Nouvelle Boulangerie",
+     "kind": "Boulangerie",
+     "m": 525
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Cité El Moez",
+     "kind": "École",
+     "m": 9
+    },
+    {
+     "name": "École Primaire Ain Fallet",
+     "kind": "École",
+     "m": 601
+    },
+    {
+     "name": "École Primaire Ibn Sina",
+     "kind": "École",
+     "m": 1045
+    },
+    {
+     "name": "École Primaire Ibn Al Jazzar",
+     "kind": "École",
+     "m": 1083
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie de Nuit",
+     "kind": "Pharmacie",
+     "m": 166
+    },
+    {
+     "name": "Pharmacie Fadoua Trabelsi",
+     "kind": "Pharmacie",
+     "m": 189
+    },
+    {
+     "name": "Pharmacie Leila Chtourou Ep. Ben Ayed",
+     "kind": "Pharmacie",
+     "m": 282
+    },
+    {
+     "name": "Pharmacie Ines Kchaou Ep. Smaoui",
+     "kind": "Pharmacie",
+     "m": 334
+    }
+   ],
+   "transports": [
+    {
+     "name": "Sidi Abid",
+     "kind": "Gare",
+     "m": 1265
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café Karim",
+     "kind": "Café",
+     "m": 204
+    },
+    {
+     "name": "Café Bouaziz",
+     "kind": "Café",
+     "m": 223
+    },
+    {
+     "name": "Cafétéria Tej",
+     "kind": "Café",
+     "m": 283
+    },
+    {
+     "name": "Café Marmara",
+     "kind": "Café",
+     "m": 426
+    }
+   ]
+  }
+ },
+ "Cite Ennasr 1|Ariana Ville": {
+  "lat": 36.85855,
+  "lng": 10.16828,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "إكرام",
+     "kind": "Boulangerie",
+     "m": 293
+    },
+    {
+     "name": "Pâtisserie Ennaser",
+     "kind": "Boulangerie",
+     "m": 421
+    },
+    {
+     "name": "Bon goût",
+     "kind": "Boulangerie",
+     "m": 429
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 544
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Django Reinhardt",
+     "kind": "École",
+     "m": 244
+    },
+    {
+     "name": "المدرسة الابتدائية النصر 1 اريانة",
+     "kind": "École",
+     "m": 491
+    },
+    {
+     "name": "Collège",
+     "kind": "École",
+     "m": 600
+    },
+    {
+     "name": "Collège Riadh Ennasr Ariana",
+     "kind": "École",
+     "m": 618
+    }
+   ],
+   "sante": [
+    {
+     "name": "Centre Médical",
+     "kind": "Cabinet médical",
+     "m": 355
+    },
+    {
+     "name": "Pharmacie Fayez Khabthani",
+     "kind": "Pharmacie",
+     "m": 552
+    },
+    {
+     "name": "parapharmacie",
+     "kind": "Hôpital",
+     "m": 662
+    },
+    {
+     "name": "Pharmacie Jaouida Cheikh-Rouhou Ep. Ben Mosb",
+     "kind": "Pharmacie",
+     "m": 699
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "MM Café",
+     "kind": "Café",
+     "m": 195
+    },
+    {
+     "name": "Randa",
+     "kind": "Café",
+     "m": 421
+    },
+    {
+     "name": "Momenti Italiani",
+     "kind": "Restaurant",
+     "m": 483
+    },
+    {
+     "name": "Bambou",
+     "kind": "Restaurant",
+     "m": 506
+    }
+   ]
+  }
+ },
+ "Cite Ennasr 2|Ariana Ville": {
+  "lat": 36.86055,
+  "lng": 10.16315,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Pâtisserie Ennaser",
+     "kind": "Boulangerie",
+     "m": 98
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 186
+    },
+    {
+     "name": "Boulangerie Le Continent",
+     "kind": "Boulangerie",
+     "m": 416
+    },
+    {
+     "name": "Boulangerie Marrakech",
+     "kind": "Boulangerie",
+     "m": 646
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Riadh Ennasr Ariana",
+     "kind": "École",
+     "m": 217
+    },
+    {
+     "name": "Collège",
+     "kind": "École",
+     "m": 228
+    },
+    {
+     "name": "Jardin Nounou",
+     "kind": "Jardin d'enfants",
+     "m": 366
+    },
+    {
+     "name": "École Primaire Ennasr 2",
+     "kind": "École",
+     "m": 422
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Fayez Khabthani",
+     "kind": "Pharmacie",
+     "m": 239
+    },
+    {
+     "name": "مجمع كمون الطبي حي النصر",
+     "kind": "Clinique",
+     "m": 332
+    },
+    {
+     "name": "Pharmacie Jaouida Cheikh-Rouhou Ep. Ben Mosb",
+     "kind": "Pharmacie",
+     "m": 473
+    },
+    {
+     "name": "Centre Médical",
+     "kind": "Cabinet médical",
+     "m": 770
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Queen",
+     "kind": "Café",
+     "m": 76
+    },
+    {
+     "name": "Le safran Ennasr II",
+     "kind": "Restaurant",
+     "m": 90
+    },
+    {
+     "name": "Chestrefield",
+     "kind": "Café",
+     "m": 98
+    },
+    {
+     "name": "Bambou",
+     "kind": "Restaurant",
+     "m": 122
+    }
+   ]
+  }
+ },
+ "Cite Ennouzha|Ariana Ville": {
+  "lat": 36.86569,
+  "lng": 10.16873,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Bon goût",
+     "kind": "Boulangerie",
+     "m": 429
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 581
+    },
+    {
+     "name": "Pâtisserie Ennaser",
+     "kind": "Boulangerie",
+     "m": 698
+    },
+    {
+     "name": "Marché Central de El Menzah",
+     "kind": "Marché",
+     "m": 1053
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "المدرسة الابتدائية النصر 1 اريانة",
+     "kind": "École",
+     "m": 356
+    },
+    {
+     "name": "Collège",
+     "kind": "École",
+     "m": 566
+    },
+    {
+     "name": "Collège Riadh Ennasr Ariana",
+     "kind": "École",
+     "m": 594
+    },
+    {
+     "name": "Jawaher",
+     "kind": "Jardin d'enfants",
+     "m": 600
+    }
+   ],
+   "sante": [
+    {
+     "name": "Dr Yacine Ben Safta",
+     "kind": "Cabinet médical",
+     "m": 252
+    },
+    {
+     "name": "Polyclinique Amilcar",
+     "kind": "Clinique",
+     "m": 442
+    },
+    {
+     "name": "Hôpital Ibn Nafis",
+     "kind": "Hôpital",
+     "m": 825
+    },
+    {
+     "name": "مجمع كمون الطبي حي النصر",
+     "kind": "Clinique",
+     "m": 963
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Phalene",
+     "kind": "Café",
+     "m": 209
+    },
+    {
+     "name": "Cabana Cafe",
+     "kind": "Café",
+     "m": 221
+    },
+    {
+     "name": "La Luna",
+     "kind": "Café",
+     "m": 237
+    },
+    {
+     "name": "Origami Sushi Bar",
+     "kind": "Restaurant",
+     "m": 295
+    }
+   ]
+  }
+ },
+ "Cite Erriadh|La Marsa": {
+  "lat": 36.88267,
+  "lng": 10.30805,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Patisserie Jawaher Erriadh",
+     "kind": "Boulangerie",
+     "m": 50
+    },
+    {
+     "name": "فواكة جافة",
+     "kind": "Épicerie",
+     "m": 96
+    },
+    {
+     "name": "Kokoriko",
+     "kind": "Supermarché",
+     "m": 100
+    },
+    {
+     "name": "Casa Shop Kappa",
+     "kind": "Épicerie",
+     "m": 182
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "كلية",
+     "kind": "Lycée / Institut",
+     "m": 445
+    },
+    {
+     "name": "École Mouhamed Ali Tabec",
+     "kind": "École",
+     "m": 606
+    },
+    {
+     "name": "Le Petit Paradis",
+     "kind": "Jardin d'enfants",
+     "m": 760
+    },
+    {
+     "name": "École Farhat Hached",
+     "kind": "École",
+     "m": 847
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hela Rokbi",
+     "kind": "Pharmacie",
+     "m": 46
+    },
+    {
+     "name": "Pharmacie Ali Farhat",
+     "kind": "Pharmacie",
+     "m": 1144
+    },
+    {
+     "name": "Pharmacie Annabi",
+     "kind": "Pharmacie",
+     "m": 1384
+    },
+    {
+     "name": "Pharmacie Lobna Bouaziz Borji",
+     "kind": "Pharmacie",
+     "m": 1418
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Bonsai",
+     "kind": "Café",
+     "m": 26
+    },
+    {
+     "name": "Coffee Berlin",
+     "kind": "Café",
+     "m": 55
+    },
+    {
+     "name": "Cafe Classico",
+     "kind": "Café",
+     "m": 60
+    },
+    {
+     "name": "مقهى بجبوج",
+     "kind": "Café",
+     "m": 79
+    }
+   ]
+  }
+ },
+ "Cite Essahafa|Raoued": {
+  "lat": 36.9536,
+  "lng": 10.18919,
+  "precise": false,
+  "places": {}
+ },
+ "Cite Hedi Nouira|La Soukra": {
+  "lat": 36.87023,
+  "lng": 10.19963,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "بيع موالح عند عمار",
+     "kind": "Épicerie",
+     "m": 1248
+    },
+    {
+     "name": "بيع مواد غذائية",
+     "kind": "Épicerie",
+     "m": 1249
+    },
+    {
+     "name": "بيع ورحي التوابل والبقول (طاحونة اللمسي)",
+     "kind": "Épicerie",
+     "m": 1250
+    },
+    {
+     "name": "بيع زيت",
+     "kind": "Épicerie",
+     "m": 1252
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Hadi Nouira",
+     "kind": "École",
+     "m": 349
+    },
+    {
+     "name": "Lycée Secondaire Borj Louzir",
+     "kind": "École",
+     "m": 364
+    },
+    {
+     "name": "المدرسة الإعدادية برج الوزير",
+     "kind": "École",
+     "m": 383
+    },
+    {
+     "name": "Sidi Jebali",
+     "kind": "École",
+     "m": 1091
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hassen Ben Hfaiedh",
+     "kind": "Pharmacie",
+     "m": 482
+    },
+    {
+     "name": "centre de santé de base cité Nassim",
+     "kind": "Hôpital",
+     "m": 724
+    },
+    {
+     "name": "centre hospitalier cite Nassime",
+     "kind": "Hôpital",
+     "m": 724
+    },
+    {
+     "name": "Cabinet Dr.Lobna KHALDI",
+     "kind": "Dentiste",
+     "m": 864
+    }
+   ],
+   "transports": [
+    {
+     "name": "station de rabattement Ariana",
+     "kind": "Gare",
+     "m": 1127
+    },
+    {
+     "name": "Ariana",
+     "kind": "Gare",
+     "m": 1180
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "café zitouna",
+     "kind": "Café",
+     "m": 520
+    },
+    {
+     "name": "loisirs 1 2 3",
+     "kind": "Salle de sport",
+     "m": 842
+    },
+    {
+     "name": "Café ennozha",
+     "kind": "Café",
+     "m": 1022
+    },
+    {
+     "name": "Salon de The MALAGA",
+     "kind": "Café",
+     "m": 1198
+    }
+   ]
+  }
+ },
+ "Cite Militaire|El Omrane": {
+  "lat": 36.82815,
+  "lng": 10.05721,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Quincaillerie",
+     "kind": "Supermarché",
+     "m": 1437
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "college 9 avril",
+     "kind": "Lycée / Institut",
+     "m": 1169
+    },
+    {
+     "name": "Institut Supérieur des Arts Multimédia de la Manouba",
+     "kind": "Université",
+     "m": 1283
+    },
+    {
+     "name": "Université de La Manouba",
+     "kind": "Université",
+     "m": 1409
+    }
+   ],
+   "transports": [
+    {
+     "name": "خير الدين",
+     "kind": "Gare",
+     "m": 1430
+    }
+   ]
+  }
+ },
+ "Cite Mohamed Ali|Carthage": {
+  "lat": 36.85469,
+  "lng": 10.31406,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Le Coin du Pain",
+     "kind": "Boulangerie",
+     "m": 899
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 1186
+    },
+    {
+     "name": "Les Co'pains d'Abord",
+     "kind": "Boulangerie",
+     "m": 1271
+    },
+    {
+     "name": "MG 5 décembre",
+     "kind": "Supermarché",
+     "m": 1406
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire el Yaasmina",
+     "kind": "École",
+     "m": 806
+    },
+    {
+     "name": "École International de Carthage (ISC)",
+     "kind": "École",
+     "m": 1044
+    },
+    {
+     "name": "Lycée Byrsa",
+     "kind": "École",
+     "m": 1338
+    },
+    {
+     "name": "Collège Sidi Amor",
+     "kind": "École",
+     "m": 1382
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Najjar",
+     "kind": "Pharmacie",
+     "m": 907
+    },
+    {
+     "name": "Clinique Carthage",
+     "kind": "Clinique",
+     "m": 1430
+    },
+    {
+     "name": "Pediatre Mariem Darghouth",
+     "kind": "Cabinet médical",
+     "m": 1437
+    },
+    {
+     "name": "Pharmacie Darmoul",
+     "kind": "Pharmacie",
+     "m": 1466
+    }
+   ],
+   "transports": [
+    {
+     "name": "Carthage Dermech",
+     "kind": "Gare",
+     "m": 1149
+    },
+    {
+     "name": "Carthage Byrsa",
+     "kind": "Gare",
+     "m": 1167
+    },
+    {
+     "name": "Carthage Hannibal",
+     "kind": "Gare",
+     "m": 1335
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Le Phénix de Carthage",
+     "kind": "Restaurant",
+     "m": 509
+    },
+    {
+     "name": "Café Abu Zied",
+     "kind": "Café",
+     "m": 784
+    },
+    {
+     "name": "Café Gassa",
+     "kind": "Café",
+     "m": 808
+    },
+    {
+     "name": "Café Wachi",
+     "kind": "Café",
+     "m": 922
+    }
+   ]
+  }
+ },
+ "Cité les palmeraies|El Aouina": {
+  "lat": 36.85261,
+  "lng": 10.26594,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "7anout 7lima",
+     "kind": "Épicerie",
+     "m": 153
+    },
+    {
+     "name": "مواد غذائية عامة",
+     "kind": "Supermarché",
+     "m": 188
+    },
+    {
+     "name": "Marché Central l'Aouina",
+     "kind": "Supermarché",
+     "m": 400
+    },
+    {
+     "name": "Gustoso",
+     "kind": "Boulangerie",
+     "m": 431
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Cité Mhiri",
+     "kind": "École",
+     "m": 293
+    },
+    {
+     "name": "American Cooperative School of Tunis",
+     "kind": "École",
+     "m": 300
+    },
+    {
+     "name": "Centre National Des Langues Tunis",
+     "kind": "Université",
+     "m": 518
+    },
+    {
+     "name": "CIFFIP Lac 2",
+     "kind": "Université",
+     "m": 535
+    }
+   ],
+   "sante": [
+    {
+     "name": "Helyna parapharmacie",
+     "kind": "Pharmacie",
+     "m": 433
+    },
+    {
+     "name": "Pharmacie Wahat",
+     "kind": "Pharmacie",
+     "m": 571
+    },
+    {
+     "name": "PHARMACIE DE LA BOURSE",
+     "kind": "Pharmacie",
+     "m": 669
+    },
+    {
+     "name": "Pharmacie Najet Hamouda Ep Binous",
+     "kind": "Pharmacie",
+     "m": 727
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Casa",
+     "kind": "Restaurant",
+     "m": 191
+    },
+    {
+     "name": "قهوة منجي",
+     "kind": "Café",
+     "m": 354
+    },
+    {
+     "name": "Café Blanc",
+     "kind": "Café",
+     "m": 392
+    },
+    {
+     "name": "Café Victoire",
+     "kind": "Café",
+     "m": 458
+    }
+   ]
+  }
+ },
+ "Cité les pins - El Maalaga|La Marsa": {
+  "lat": 36.87909,
+  "lng": 10.32768,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Karma Bio",
+     "kind": "Épicerie",
+     "m": 131
+    },
+    {
+     "name": "Le Coin du Bio",
+     "kind": "Épicerie",
+     "m": 139
+    },
+    {
+     "name": "Crousty-Creux",
+     "kind": "Boulangerie",
+     "m": 219
+    },
+    {
+     "name": "ChoPain",
+     "kind": "Boulangerie",
+     "m": 307
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Fadhhel Ben Achour",
+     "kind": "École",
+     "m": 159
+    },
+    {
+     "name": "École Primaire privée Amilcar",
+     "kind": "École",
+     "m": 194
+    },
+    {
+     "name": "École Primaire Bourguiba",
+     "kind": "École",
+     "m": 205
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 353
+    }
+   ],
+   "sante": [
+    {
+     "name": "Docteur Nabil Hanayen",
+     "kind": "Cabinet médical",
+     "m": 35
+    },
+    {
+     "name": "Cabinet de médecine dentaire Dr Mohamed Raïssi & Maroua Chtioui",
+     "kind": "Cabinet médical",
+     "m": 80
+    },
+    {
+     "name": "Dentiste",
+     "kind": "Dentiste",
+     "m": 93
+    },
+    {
+     "name": "Docteur Ftouh Gynécologie",
+     "kind": "Cabinet médical",
+     "m": 192
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 677
+    },
+    {
+     "name": "La Corniche",
+     "kind": "Gare",
+     "m": 1036
+    },
+    {
+     "name": "Sidi Dhrif",
+     "kind": "Gare",
+     "m": 1135
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café el Alia",
+     "kind": "Café",
+     "m": 40
+    },
+    {
+     "name": "Ala Turka",
+     "kind": "Restaurant",
+     "m": 70
+    },
+    {
+     "name": "L'Arbre a Couscous",
+     "kind": "Restaurant",
+     "m": 99
+    },
+    {
+     "name": "Chez Zina",
+     "kind": "Restaurant",
+     "m": 115
+    }
+   ]
+  }
+ },
+ "El Aouina|El Aouina": {
+  "lat": 36.8529,
+  "lng": 10.25773,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Boulangerie Pâtisserie Bhar",
+     "kind": "Boulangerie",
+     "m": 41
+    },
+    {
+     "name": "Supérette",
+     "kind": "Épicerie",
+     "m": 233
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 338
+    },
+    {
+     "name": "Boulangerie pâtisserie",
+     "kind": "Boulangerie",
+     "m": 448
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Cité les Immeubles",
+     "kind": "École",
+     "m": 156
+    },
+    {
+     "name": "École les Jardins de l'Aouina",
+     "kind": "École",
+     "m": 174
+    },
+    {
+     "name": "École Primaire Route de la Soukra L'Aouina",
+     "kind": "École",
+     "m": 202
+    },
+    {
+     "name": "Jardin d'Enfants les Jardins de l'Aouina",
+     "kind": "Jardin d'enfants",
+     "m": 460
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Najet Hamouda Ep Binous",
+     "kind": "Pharmacie",
+     "m": 29
+    },
+    {
+     "name": "Helyna parapharmacie",
+     "kind": "Pharmacie",
+     "m": 521
+    },
+    {
+     "name": "Pharmacie Wahat",
+     "kind": "Pharmacie",
+     "m": 979
+    },
+    {
+     "name": "Pharmacie La Soukrea",
+     "kind": "Pharmacie",
+     "m": 1098
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Restaurant NasrALLAH",
+     "kind": "Restaurant",
+     "m": 37
+    },
+    {
+     "name": "Yagouta",
+     "kind": "Restaurant",
+     "m": 38
+    },
+    {
+     "name": "Restaurant Chobec",
+     "kind": "Restaurant",
+     "m": 58
+    },
+    {
+     "name": "Salsa",
+     "kind": "Restaurant",
+     "m": 94
+    }
+   ]
+  }
+ },
+ "El Hessiene|Raoued": {
+  "lat": 36.9536,
+  "lng": 10.18919,
+  "precise": false,
+  "places": {}
+ },
+ "El Manar 2|El Menzah": {
+  "lat": 36.8424,
+  "lng": 10.15712,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Pyramide",
+     "kind": "Boulangerie",
+     "m": 411
+    },
+    {
+     "name": "Carrefour Market",
+     "kind": "Supermarché",
+     "m": 458
+    },
+    {
+     "name": "Champion",
+     "kind": "Supermarché",
+     "m": 459
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 467
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Dream School",
+     "kind": "École",
+     "m": 423
+    },
+    {
+     "name": "Lycée Menzah IX",
+     "kind": "École",
+     "m": 494
+    },
+    {
+     "name": "Universite Aeronautique et des Technologies",
+     "kind": "Lycée / Institut",
+     "m": 530
+    },
+    {
+     "name": "Avicenne Private Business School",
+     "kind": "École",
+     "m": 584
+    }
+   ],
+   "sante": [
+    {
+     "name": "Avicenne manar 2",
+     "kind": "Clinique",
+     "m": 57
+    },
+    {
+     "name": "Clinique Avicenne",
+     "kind": "Clinique",
+     "m": 258
+    },
+    {
+     "name": "Dr. Abbound & Dr. Elmetoui",
+     "kind": "Dentiste",
+     "m": 547
+    },
+    {
+     "name": "Centre de dialyse omar",
+     "kind": "Clinique",
+     "m": 597
+    }
+   ],
+   "transports": [
+    {
+     "name": "محطة المنار1",
+     "kind": "Gare routière",
+     "m": 381
+    },
+    {
+     "name": "RR21",
+     "kind": "Gare",
+     "m": 1419
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Lailli El Manar",
+     "kind": "Café",
+     "m": 60
+    },
+    {
+     "name": "Story coffee",
+     "kind": "Café",
+     "m": 90
+    },
+    {
+     "name": "Lilla Arbia",
+     "kind": "Café",
+     "m": 132
+    },
+    {
+     "name": "Mabillon",
+     "kind": "Restaurant",
+     "m": 207
+    }
+   ]
+  }
+ },
+ "El Menzah 4|El Menzah": {
+  "lat": 36.83994,
+  "lng": 10.17723,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Boulangerie Patisserie Ben moussa",
+     "kind": "Boulangerie",
+     "m": 203
+    },
+    {
+     "name": "Monoprix Express",
+     "kind": "Supermarché",
+     "m": 423
+    },
+    {
+     "name": "Épicerie Mutuelleville",
+     "kind": "Épicerie",
+     "m": 673
+    },
+    {
+     "name": "Supérette Emna",
+     "kind": "Épicerie",
+     "m": 794
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Hédi Khfécha",
+     "kind": "École",
+     "m": 326
+    },
+    {
+     "name": "Lycée les pères blancs",
+     "kind": "École",
+     "m": 352
+    },
+    {
+     "name": "EIF",
+     "kind": "École",
+     "m": 373
+    },
+    {
+     "name": "Le Si-Près",
+     "kind": "Jardin d'enfants",
+     "m": 609
+    }
+   ],
+   "sante": [
+    {
+     "name": "Cabinet dentaire Dr Zied Idani",
+     "kind": "Dentiste",
+     "m": 404
+    },
+    {
+     "name": "Pharmacie Abdennadher",
+     "kind": "Pharmacie",
+     "m": 482
+    },
+    {
+     "name": "Cabinet Dr.Farah Abbes",
+     "kind": "Clinique",
+     "m": 682
+    },
+    {
+     "name": "Clinique Amen Mutuelleville",
+     "kind": "Clinique",
+     "m": 705
+    }
+   ],
+   "transports": [
+    {
+     "name": "RR21",
+     "kind": "Gare",
+     "m": 450
+    },
+    {
+     "name": "Cité Sportive",
+     "kind": "Gare",
+     "m": 450
+    },
+    {
+     "name": "10 Décembre 1948",
+     "kind": "Gare",
+     "m": 772
+    },
+    {
+     "name": "10 Decembre 1984",
+     "kind": "Gare",
+     "m": 822
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Swan on the cake",
+     "kind": "Restaurant",
+     "m": 126
+    },
+    {
+     "name": "Pizza Pino",
+     "kind": "Restaurant",
+     "m": 276
+    },
+    {
+     "name": "panorama",
+     "kind": "Restaurant",
+     "m": 303
+    },
+    {
+     "name": "Le zink",
+     "kind": "Restaurant",
+     "m": 323
+    }
+   ]
+  }
+ },
+ "El Menzah 5|Ariana Ville": {
+  "lat": 36.84776,
+  "lng": 10.17559,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 746
+    },
+    {
+     "name": "Centre Commerciale Menzah 6",
+     "kind": "Centre commercial",
+     "m": 830
+    },
+    {
+     "name": "Impact Sport Nutrition",
+     "kind": "Supermarché",
+     "m": 839
+    },
+    {
+     "name": "Monoprix Menzah 6",
+     "kind": "Supermarché",
+     "m": 843
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire d'El Menzah 5",
+     "kind": "École",
+     "m": 298
+    },
+    {
+     "name": "Collège Menzah 5",
+     "kind": "École",
+     "m": 478
+    },
+    {
+     "name": "École Primaire El Kehna",
+     "kind": "École",
+     "m": 617
+    },
+    {
+     "name": "École Primaire Privée Charlemagne",
+     "kind": "École",
+     "m": 735
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Centre Kobbi",
+     "kind": "Pharmacie",
+     "m": 657
+    },
+    {
+     "name": "Polyclinique el Farabi",
+     "kind": "Hôpital",
+     "m": 695
+    },
+    {
+     "name": "parapharmacie",
+     "kind": "Hôpital",
+     "m": 825
+    },
+    {
+     "name": "Pharmacie Sana Ghroubi Ep. Chaabane",
+     "kind": "Pharmacie",
+     "m": 865
+    }
+   ],
+   "transports": [
+    {
+     "name": "RR21",
+     "kind": "Gare",
+     "m": 655
+    },
+    {
+     "name": "10 Décembre 1948",
+     "kind": "Gare",
+     "m": 847
+    },
+    {
+     "name": "10 Decembre 1984",
+     "kind": "Gare",
+     "m": 878
+    },
+    {
+     "name": "Cité Sportive",
+     "kind": "Gare",
+     "m": 1175
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café Chams",
+     "kind": "Café",
+     "m": 25
+    },
+    {
+     "name": "Café Amal",
+     "kind": "Café",
+     "m": 42
+    },
+    {
+     "name": "Cafa Java",
+     "kind": "Café",
+     "m": 201
+    },
+    {
+     "name": "My place",
+     "kind": "Café",
+     "m": 204
+    }
+   ]
+  }
+ },
+ "El Menzah 6|Ariana Ville": {
+  "lat": 36.84846,
+  "lng": 10.16342,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Impact Sport Nutrition",
+     "kind": "Supermarché",
+     "m": 247
+    },
+    {
+     "name": "Centre Commerciale Menzah 6",
+     "kind": "Centre commercial",
+     "m": 298
+    },
+    {
+     "name": "Monoprix Menzah 6",
+     "kind": "Supermarché",
+     "m": 356
+    },
+    {
+     "name": "La Seine Pâtisserie",
+     "kind": "Boulangerie",
+     "m": 366
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire",
+     "kind": "École",
+     "m": 257
+    },
+    {
+     "name": "Lycée Menzeh 6",
+     "kind": "École",
+     "m": 387
+    },
+    {
+     "name": "Collège d'El Menzah 6",
+     "kind": "École",
+     "m": 424
+    },
+    {
+     "name": "École Primaire d'El Menzah 7",
+     "kind": "École",
+     "m": 510
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie ROFAIDA Moadeb",
+     "kind": "Pharmacie",
+     "m": 217
+    },
+    {
+     "name": "Polyclinique el Farabi",
+     "kind": "Hôpital",
+     "m": 390
+    },
+    {
+     "name": "parapharmacie",
+     "kind": "Hôpital",
+     "m": 649
+    },
+    {
+     "name": "Pharmacie de nuit",
+     "kind": "Pharmacie",
+     "m": 702
+    }
+   ],
+   "transports": [
+    {
+     "name": "RR21",
+     "kind": "Gare",
+     "m": 1102
+    },
+    {
+     "name": "محطة المنار1",
+     "kind": "Gare routière",
+     "m": 1205
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Route 66 Menzah 6",
+     "kind": "Restaurant",
+     "m": 198
+    },
+    {
+     "name": "Trait d'union",
+     "kind": "Café",
+     "m": 204
+    },
+    {
+     "name": "Café des Arts",
+     "kind": "Café",
+     "m": 349
+    },
+    {
+     "name": "Palmeraie",
+     "kind": "Café",
+     "m": 368
+    }
+   ]
+  }
+ },
+ "El Menzah 7|Ariana Ville": {
+  "lat": 36.85412,
+  "lng": 10.16267,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Supérette 53",
+     "kind": "Épicerie",
+     "m": 110
+    },
+    {
+     "name": "Supérette 54",
+     "kind": "Épicerie",
+     "m": 146
+    },
+    {
+     "name": "Supérette 55",
+     "kind": "Épicerie",
+     "m": 177
+    },
+    {
+     "name": "Magasin Général Menzah",
+     "kind": "Supermarché",
+     "m": 230
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Menzeh 6",
+     "kind": "École",
+     "m": 274
+    },
+    {
+     "name": "École Primaire",
+     "kind": "École",
+     "m": 381
+    },
+    {
+     "name": "Collège d'El Menzah 6",
+     "kind": "École",
+     "m": 477
+    },
+    {
+     "name": "Jardin Nounou",
+     "kind": "Jardin d'enfants",
+     "m": 501
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Jaouida Cheikh-Rouhou Ep. Ben Mosb",
+     "kind": "Pharmacie",
+     "m": 339
+    },
+    {
+     "name": "Pharmacie Fayez Khabthani",
+     "kind": "Pharmacie",
+     "m": 499
+    },
+    {
+     "name": "Pharmacie ROFAIDA Moadeb",
+     "kind": "Pharmacie",
+     "m": 521
+    },
+    {
+     "name": "parapharmacie",
+     "kind": "Hôpital",
+     "m": 550
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café des Arts",
+     "kind": "Café",
+     "m": 292
+    },
+    {
+     "name": "Le Seixieme",
+     "kind": "Restaurant",
+     "m": 313
+    },
+    {
+     "name": "Apostrophe",
+     "kind": "Café",
+     "m": 318
+    },
+    {
+     "name": "Café El Amir",
+     "kind": "Café",
+     "m": 323
+    }
+   ]
+  }
+ },
+ "El Menzah 8|Ariana Ville": {
+  "lat": 36.85689,
+  "lng": 10.17257,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Marché Central de El Menzah",
+     "kind": "Marché",
+     "m": 157
+    },
+    {
+     "name": "إكرام",
+     "kind": "Boulangerie",
+     "m": 426
+    },
+    {
+     "name": "Bon goût",
+     "kind": "Boulangerie",
+     "m": 608
+    },
+    {
+     "name": "Supérette 55",
+     "kind": "Épicerie",
+     "m": 773
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Pilote Bayrem V Menzah 8",
+     "kind": "École",
+     "m": 294
+    },
+    {
+     "name": "École Django Reinhardt",
+     "kind": "École",
+     "m": 316
+    },
+    {
+     "name": "Collège Menzah 5",
+     "kind": "École",
+     "m": 599
+    },
+    {
+     "name": "المدرسة الابتدائية النصر 1 اريانة",
+     "kind": "École",
+     "m": 681
+    }
+   ],
+   "sante": [
+    {
+     "name": "Centre Médical",
+     "kind": "Cabinet médical",
+     "m": 363
+    },
+    {
+     "name": "Pharmacie Sana Ghroubi Ep. Chaabane",
+     "kind": "Pharmacie",
+     "m": 511
+    },
+    {
+     "name": "parapharmacie",
+     "kind": "Hôpital",
+     "m": 597
+    },
+    {
+     "name": "Pharmacie Fayez Khabthani",
+     "kind": "Pharmacie",
+     "m": 953
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Kamora Pizza",
+     "kind": "Café",
+     "m": 258
+    },
+    {
+     "name": "Restaurant Damascus",
+     "kind": "Restaurant",
+     "m": 310
+    },
+    {
+     "name": "Gourmandise",
+     "kind": "Café",
+     "m": 325
+    },
+    {
+     "name": "مستر فايف",
+     "kind": "Café",
+     "m": 386
+    }
+   ]
+  }
+ },
+ "El Menzah 9|El Menzah": {
+  "lat": 36.84438,
+  "lng": 10.18194,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 192
+    },
+    {
+     "name": "Boulangerie Patisserie Ben moussa",
+     "kind": "Boulangerie",
+     "m": 820
+    },
+    {
+     "name": "Monoprix Express",
+     "kind": "Supermarché",
+     "m": 964
+    },
+    {
+     "name": "Carrefour",
+     "kind": "Supermarché",
+     "m": 1087
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Privée Charlemagne",
+     "kind": "École",
+     "m": 64
+    },
+    {
+     "name": "École Primaire d'El Menzah 5",
+     "kind": "École",
+     "m": 400
+    },
+    {
+     "name": "Faculté des Sciences Juridiques, Politiques et sociales de Tunis",
+     "kind": "Université",
+     "m": 438
+    },
+    {
+     "name": "EIF",
+     "kind": "École",
+     "m": 694
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Centre Kobbi",
+     "kind": "Pharmacie",
+     "m": 587
+    },
+    {
+     "name": "Cabinet dentaire Dr Zied Idani",
+     "kind": "Dentiste",
+     "m": 687
+    },
+    {
+     "name": "Centre de Médecine du Sport",
+     "kind": "Hôpital",
+     "m": 939
+    },
+    {
+     "name": "Pharmacie Abdennadher",
+     "kind": "Pharmacie",
+     "m": 975
+    }
+   ],
+   "transports": [
+    {
+     "name": "10 Décembre 1948",
+     "kind": "Gare",
+     "m": 188
+    },
+    {
+     "name": "10 Decembre 1984",
+     "kind": "Gare",
+     "m": 233
+    },
+    {
+     "name": "Cité Sportive",
+     "kind": "Gare",
+     "m": 653
+    },
+    {
+     "name": "RR21",
+     "kind": "Gare",
+     "m": 825
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Cup Town",
+     "kind": "Café",
+     "m": 100
+    },
+    {
+     "name": "Cosmitto Express",
+     "kind": "Café",
+     "m": 152
+    },
+    {
+     "name": "Le Balcon",
+     "kind": "Café",
+     "m": 161
+    },
+    {
+     "name": "Mokador",
+     "kind": "Café",
+     "m": 316
+    }
+   ]
+  }
+ },
+ "El Omrane Superieur|El Omrane Superieur": {
+  "lat": 36.84177,
+  "lng": 10.13013,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Supérette Soulaima",
+     "kind": "Épicerie",
+     "m": 844
+    },
+    {
+     "name": "Aziza",
+     "kind": "Supermarché",
+     "m": 914
+    },
+    {
+     "name": "الرفاهة",
+     "kind": "Épicerie",
+     "m": 1073
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 1231
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Abou kasem achabi",
+     "kind": "École",
+     "m": 99
+    },
+    {
+     "name": "Lycée Omrane Supérieur",
+     "kind": "École",
+     "m": 202
+    },
+    {
+     "name": "École Ibnou Arafa",
+     "kind": "École",
+     "m": 469
+    },
+    {
+     "name": "Collége 7 Novembre 1987",
+     "kind": "Lycée / Institut",
+     "m": 716
+    }
+   ],
+   "sante": [
+    {
+     "name": "المرك الطبي دزذ",
+     "kind": "Clinique",
+     "m": 807
+    },
+    {
+     "name": "Pharmacie Emna Hamza",
+     "kind": "Pharmacie",
+     "m": 1188
+    },
+    {
+     "name": "Pharmacie de Nuit Cité Intilaka",
+     "kind": "Pharmacie",
+     "m": 1217
+    },
+    {
+     "name": "Dr. Ben Slema",
+     "kind": "Dentiste",
+     "m": 1481
+    }
+   ],
+   "transports": [
+    {
+     "name": "Intilaka",
+     "kind": "Gare",
+     "m": 1200
+    },
+    {
+     "name": "Ibn Khaldoun",
+     "kind": "Gare",
+     "m": 1279
+    },
+    {
+     "name": "Ettadhamen",
+     "kind": "Gare",
+     "m": 1297
+    },
+    {
+     "name": "Omrane Superieur",
+     "kind": "Gare",
+     "m": 1359
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Resterant Universitaire Omrane Superieur",
+     "kind": "Restaurant",
+     "m": 507
+    },
+    {
+     "name": "Venizia Fast-Food",
+     "kind": "Restaurant",
+     "m": 772
+    },
+    {
+     "name": "Retaurant Bab El Houma",
+     "kind": "Restaurant",
+     "m": 801
+    },
+    {
+     "name": "باب الحومة",
+     "kind": "Restaurant",
+     "m": 802
+    }
+   ]
+  }
+ },
+ "El aouina|Ain Zaghouan": {
+  "lat": 36.85261,
+  "lng": 10.26594,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "7anout 7lima",
+     "kind": "Épicerie",
+     "m": 153
+    },
+    {
+     "name": "مواد غذائية عامة",
+     "kind": "Supermarché",
+     "m": 188
+    },
+    {
+     "name": "Marché Central l'Aouina",
+     "kind": "Supermarché",
+     "m": 400
+    },
+    {
+     "name": "Gustoso",
+     "kind": "Boulangerie",
+     "m": 431
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Cité Mhiri",
+     "kind": "École",
+     "m": 293
+    },
+    {
+     "name": "American Cooperative School of Tunis",
+     "kind": "École",
+     "m": 300
+    },
+    {
+     "name": "Centre National Des Langues Tunis",
+     "kind": "Université",
+     "m": 518
+    },
+    {
+     "name": "CIFFIP Lac 2",
+     "kind": "Université",
+     "m": 535
+    }
+   ],
+   "sante": [
+    {
+     "name": "Helyna parapharmacie",
+     "kind": "Pharmacie",
+     "m": 433
+    },
+    {
+     "name": "Pharmacie Wahat",
+     "kind": "Pharmacie",
+     "m": 571
+    },
+    {
+     "name": "PHARMACIE DE LA BOURSE",
+     "kind": "Pharmacie",
+     "m": 669
+    },
+    {
+     "name": "Pharmacie Najet Hamouda Ep Binous",
+     "kind": "Pharmacie",
+     "m": 727
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Casa",
+     "kind": "Restaurant",
+     "m": 191
+    },
+    {
+     "name": "قهوة منجي",
+     "kind": "Café",
+     "m": 354
+    },
+    {
+     "name": "Café Blanc",
+     "kind": "Café",
+     "m": 392
+    },
+    {
+     "name": "Café Victoire",
+     "kind": "Café",
+     "m": 458
+    }
+   ]
+  }
+ },
+ "Emplacement non disponible|La Marsa": {
+  "lat": 36.87909,
+  "lng": 10.32768,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Karma Bio",
+     "kind": "Épicerie",
+     "m": 131
+    },
+    {
+     "name": "Le Coin du Bio",
+     "kind": "Épicerie",
+     "m": 139
+    },
+    {
+     "name": "Crousty-Creux",
+     "kind": "Boulangerie",
+     "m": 219
+    },
+    {
+     "name": "ChoPain",
+     "kind": "Boulangerie",
+     "m": 307
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Fadhhel Ben Achour",
+     "kind": "École",
+     "m": 159
+    },
+    {
+     "name": "École Primaire privée Amilcar",
+     "kind": "École",
+     "m": 194
+    },
+    {
+     "name": "École Primaire Bourguiba",
+     "kind": "École",
+     "m": 205
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 353
+    }
+   ],
+   "sante": [
+    {
+     "name": "Docteur Nabil Hanayen",
+     "kind": "Cabinet médical",
+     "m": 35
+    },
+    {
+     "name": "Cabinet de médecine dentaire Dr Mohamed Raïssi & Maroua Chtioui",
+     "kind": "Cabinet médical",
+     "m": 80
+    },
+    {
+     "name": "Dentiste",
+     "kind": "Dentiste",
+     "m": 93
+    },
+    {
+     "name": "Docteur Ftouh Gynécologie",
+     "kind": "Cabinet médical",
+     "m": 192
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 677
+    },
+    {
+     "name": "La Corniche",
+     "kind": "Gare",
+     "m": 1036
+    },
+    {
+     "name": "Sidi Dhrif",
+     "kind": "Gare",
+     "m": 1135
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café el Alia",
+     "kind": "Café",
+     "m": 40
+    },
+    {
+     "name": "Ala Turka",
+     "kind": "Restaurant",
+     "m": 70
+    },
+    {
+     "name": "L'Arbre a Couscous",
+     "kind": "Restaurant",
+     "m": 99
+    },
+    {
+     "name": "Chez Zina",
+     "kind": "Restaurant",
+     "m": 115
+    }
+   ]
+  }
+ },
+ "Gammarth|La Marsa": {
+  "lat": 36.90515,
+  "lng": 10.29825,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "El Baraka",
+     "kind": "Épicerie",
+     "m": 44
+    },
+    {
+     "name": "La Petite Superrette",
+     "kind": "Épicerie",
+     "m": 98
+    },
+    {
+     "name": "Mazzraat Gammarth",
+     "kind": "Épicerie",
+     "m": 136
+    },
+    {
+     "name": "Boulangerie de Gammarth Village",
+     "kind": "Boulangerie",
+     "m": 150
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "King Kids",
+     "kind": "Jardin d'enfants",
+     "m": 147
+    },
+    {
+     "name": "Happy Kids",
+     "kind": "Jardin d'enfants",
+     "m": 251
+    },
+    {
+     "name": "Le Petit Monde",
+     "kind": "Jardin d'enfants",
+     "m": 729
+    },
+    {
+     "name": "École Primaire Gammarth Harrouche",
+     "kind": "École",
+     "m": 822
+    }
+   ],
+   "sante": [
+    {
+     "name": "Convalescence Gammarth",
+     "kind": "Clinique",
+     "m": 32
+    },
+    {
+     "name": "Pharmacie Gammarth",
+     "kind": "Pharmacie",
+     "m": 55
+    }
+   ],
+   "transports": [
+    {
+     "name": "Gammarth",
+     "kind": "Gare routière",
+     "m": 436
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "El Omnia",
+     "kind": "Café",
+     "m": 30
+    },
+    {
+     "name": "Ben Jmi3",
+     "kind": "Café",
+     "m": 126
+    },
+    {
+     "name": "Friends Café",
+     "kind": "Café",
+     "m": 133
+    },
+    {
+     "name": "Rapido Café",
+     "kind": "Café",
+     "m": 168
+    }
+   ]
+  }
+ },
+ "Gammarth supérieur|La Marsa": {
+  "lat": 36.89174,
+  "lng": 10.31162,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Souk Bou Selsla",
+     "kind": "Marché",
+     "m": 277
+    },
+    {
+     "name": "Souk Bouselsla",
+     "kind": "Marché",
+     "m": 338
+    },
+    {
+     "name": "Aziza",
+     "kind": "Supermarché",
+     "m": 684
+    },
+    {
+     "name": "Le Pain Chaud",
+     "kind": "Boulangerie",
+     "m": 702
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Farhat Hached",
+     "kind": "École",
+     "m": 299
+    },
+    {
+     "name": "Lycée Marsa El Riadh",
+     "kind": "Lycée / Institut",
+     "m": 356
+    },
+    {
+     "name": "Ecole Superieure de l'Audiovisuel et du Cinema",
+     "kind": "Lycée / Institut",
+     "m": 825
+    },
+    {
+     "name": "كلية",
+     "kind": "Lycée / Institut",
+     "m": 891
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hela Rokbi",
+     "kind": "Pharmacie",
+     "m": 1019
+    },
+    {
+     "name": "Pharmacie Ali Farhat",
+     "kind": "Pharmacie",
+     "m": 1137
+    },
+    {
+     "name": "Pharmacie Annabi",
+     "kind": "Pharmacie",
+     "m": 1183
+    },
+    {
+     "name": "Pharmacie Lobna Bouaziz Borji",
+     "kind": "Pharmacie",
+     "m": 1240
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "World Gym",
+     "kind": "Complexe sportif",
+     "m": 325
+    },
+    {
+     "name": "Body Factory Gym",
+     "kind": "Salle de sport",
+     "m": 422
+    },
+    {
+     "name": "Café Journal",
+     "kind": "Café",
+     "m": 454
+    },
+    {
+     "name": "Oxygene fitness Gammarth",
+     "kind": "Complexe sportif",
+     "m": 468
+    }
+   ]
+  }
+ },
+ "Gammarth village|La Marsa": {
+  "lat": 36.90379,
+  "lng": 10.30028,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Mazzraat Gammarth",
+     "kind": "Épicerie",
+     "m": 169
+    },
+    {
+     "name": "El Baraka",
+     "kind": "Épicerie",
+     "m": 204
+    },
+    {
+     "name": "Boulangerie de Gammarth Village",
+     "kind": "Boulangerie",
+     "m": 209
+    },
+    {
+     "name": "La Petite Superrette",
+     "kind": "Épicerie",
+     "m": 210
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "King Kids",
+     "kind": "Jardin d'enfants",
+     "m": 379
+    },
+    {
+     "name": "Happy Kids",
+     "kind": "Jardin d'enfants",
+     "m": 464
+    },
+    {
+     "name": "Le Petit Monde",
+     "kind": "Jardin d'enfants",
+     "m": 964
+    },
+    {
+     "name": "École Primaire Gammarth Harrouche",
+     "kind": "École",
+     "m": 1056
+    }
+   ],
+   "sante": [
+    {
+     "name": "Convalescence Gammarth",
+     "kind": "Clinique",
+     "m": 216
+    },
+    {
+     "name": "Pharmacie Gammarth",
+     "kind": "Pharmacie",
+     "m": 218
+    }
+   ],
+   "transports": [
+    {
+     "name": "Gammarth",
+     "kind": "Gare routière",
+     "m": 377
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Ben Jmi3",
+     "kind": "Café",
+     "m": 169
+    },
+    {
+     "name": "Hamza",
+     "kind": "Café",
+     "m": 186
+    },
+    {
+     "name": "El Omnia",
+     "kind": "Café",
+     "m": 222
+    },
+    {
+     "name": "Friends Café",
+     "kind": "Café",
+     "m": 275
+    }
+   ]
+  }
+ },
+ "Jardin de l'aouina|El Aouina": {
+  "lat": 36.86204,
+  "lng": 10.27566,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Carrefour Express",
+     "kind": "Supermarché",
+     "m": 205
+    },
+    {
+     "name": "Aziza",
+     "kind": "Supermarché",
+     "m": 340
+    },
+    {
+     "name": "بقالة",
+     "kind": "Épicerie",
+     "m": 385
+    },
+    {
+     "name": "La Grande Épicerie Ben Yaghlane",
+     "kind": "Supermarché",
+     "m": 463
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Crèche Babyland",
+     "kind": "Jardin d'enfants",
+     "m": 151
+    },
+    {
+     "name": "Collège cité Salema",
+     "kind": "École",
+     "m": 855
+    },
+    {
+     "name": "American Cooperative School of Tunis",
+     "kind": "École",
+     "m": 1141
+    },
+    {
+     "name": "L'Academie du Lac",
+     "kind": "École",
+     "m": 1501
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Darghouth",
+     "kind": "Pharmacie",
+     "m": 102
+    },
+    {
+     "name": "Pharmacie de Nuit",
+     "kind": "Pharmacie",
+     "m": 106
+    },
+    {
+     "name": "Harzallah Inès Ep Louati",
+     "kind": "Pharmacie",
+     "m": 253
+    },
+    {
+     "name": "Clinique de la Soukra",
+     "kind": "Clinique",
+     "m": 261
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "مطعم الخيمة للمأكولات الليبية",
+     "kind": "Restaurant",
+     "m": 60
+    },
+    {
+     "name": "Café 114",
+     "kind": "Café",
+     "m": 65
+    },
+    {
+     "name": "Café Jasmin",
+     "kind": "Café",
+     "m": 82
+    },
+    {
+     "name": "Ommek Fatma",
+     "kind": "Restaurant",
+     "m": 88
+    }
+   ]
+  }
+ },
+ "Jardins d'el Menzah|Mnihla": {
+  "lat": 36.84574,
+  "lng": 10.13172,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "الرفاهة",
+     "kind": "Épicerie",
+     "m": 774
+    },
+    {
+     "name": "Foire Jardin d'El Menzah",
+     "kind": "Marché",
+     "m": 990
+    },
+    {
+     "name": "Supérette Soulaima",
+     "kind": "Épicerie",
+     "m": 1167
+    },
+    {
+     "name": "Aziza",
+     "kind": "Supermarché",
+     "m": 1300
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Omrane Supérieur",
+     "kind": "École",
+     "m": 380
+    },
+    {
+     "name": "Abou kasem achabi",
+     "kind": "École",
+     "m": 555
+    },
+    {
+     "name": "Salima School",
+     "kind": "École",
+     "m": 750
+    },
+    {
+     "name": "École Ibnou Arafa",
+     "kind": "École",
+     "m": 886
+    }
+   ],
+   "sante": [
+    {
+     "name": "المرك الطبي دزذ",
+     "kind": "Clinique",
+     "m": 1120
+    },
+    {
+     "name": "Pharmacie Emna Hamza",
+     "kind": "Pharmacie",
+     "m": 1452
+    },
+    {
+     "name": "Pharmacie de Nuit Cité Intilaka",
+     "kind": "Pharmacie",
+     "m": 1478
+    }
+   ],
+   "transports": [
+    {
+     "name": "Intilaka",
+     "kind": "Gare",
+     "m": 1496
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "کافه شيراز",
+     "kind": "Café",
+     "m": 648
+    },
+    {
+     "name": "Espace vert ECO-quartier",
+     "kind": "Parc",
+     "m": 697
+    },
+    {
+     "name": "café djo",
+     "kind": "Café",
+     "m": 755
+    },
+    {
+     "name": "Parisienne",
+     "kind": "Café",
+     "m": 806
+    }
+   ]
+  }
+ },
+ "La Goulette|La Goulette": {
+  "lat": 36.81338,
+  "lng": 10.29306,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Boutique Souvenirs",
+     "kind": "Centre commercial",
+     "m": 937
+    },
+    {
+     "name": "السوق الحرة",
+     "kind": "Épicerie",
+     "m": 1140
+    },
+    {
+     "name": "Marché Municipal La Goulette",
+     "kind": "Marché",
+     "m": 1204
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Rades Traning Center",
+     "kind": "Université",
+     "m": 595
+    },
+    {
+     "name": "École Préparatoire Technique",
+     "kind": "École",
+     "m": 796
+    },
+    {
+     "name": "Lycée 2 Mars 1934",
+     "kind": "Lycée / Institut",
+     "m": 1050
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie du Jour",
+     "kind": "Pharmacie",
+     "m": 1173
+    }
+   ],
+   "transports": [
+    {
+     "name": "Le Bac",
+     "kind": "Gare",
+     "m": 112
+    },
+    {
+     "name": "La Goulette",
+     "kind": "Gare",
+     "m": 942
+    },
+    {
+     "name": "La Goulette Vielle",
+     "kind": "Gare",
+     "m": 947
+    },
+    {
+     "name": "La Goulette Neuve",
+     "kind": "Gare",
+     "m": 1336
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Ad-Diwan",
+     "kind": "Café",
+     "m": 127
+    },
+    {
+     "name": "La Spigola",
+     "kind": "Restaurant",
+     "m": 138
+    },
+    {
+     "name": "Café Istanboul",
+     "kind": "Café",
+     "m": 661
+    },
+    {
+     "name": "Cicilia",
+     "kind": "Café",
+     "m": 940
+    }
+   ]
+  }
+ },
+ "La Goulette Nouvelle|La Goulette": {
+  "lat": 36.81593,
+  "lng": 10.30424,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Marché Municipal La Goulette",
+     "kind": "Marché",
+     "m": 206
+    },
+    {
+     "name": "Boutique Souvenirs",
+     "kind": "Centre commercial",
+     "m": 577
+    },
+    {
+     "name": "السوق الحرة",
+     "kind": "Épicerie",
+     "m": 828
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée 2 Mars 1934",
+     "kind": "Lycée / Institut",
+     "m": 169
+    },
+    {
+     "name": "École Préparatoire Technique",
+     "kind": "École",
+     "m": 297
+    },
+    {
+     "name": "Collège El Farabi",
+     "kind": "École",
+     "m": 1067
+    },
+    {
+     "name": "Rades Traning Center",
+     "kind": "Université",
+     "m": 1396
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie du Jour",
+     "kind": "Pharmacie",
+     "m": 197
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Goulette Vielle",
+     "kind": "Gare",
+     "m": 309
+    },
+    {
+     "name": "La Goulette",
+     "kind": "Gare",
+     "m": 317
+    },
+    {
+     "name": "La Goulette Neuve",
+     "kind": "Gare",
+     "m": 463
+    },
+    {
+     "name": "La Goulette Casino",
+     "kind": "Gare",
+     "m": 1006
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Black & White",
+     "kind": "Café",
+     "m": 58
+    },
+    {
+     "name": "Restaurant La Victoire (Razgalla)",
+     "kind": "Restaurant",
+     "m": 58
+    },
+    {
+     "name": "Restaurant VENUS La Goulette",
+     "kind": "Restaurant",
+     "m": 67
+    },
+    {
+     "name": "Café En-nakhil",
+     "kind": "Café",
+     "m": 103
+    }
+   ]
+  }
+ },
+ "La Soukra|La Soukra": {
+  "lat": 36.87498,
+  "lng": 10.24543,
+  "precise": true,
+  "places": {
+   "ecoles": [
+    {
+     "name": "Lycée soukra",
+     "kind": "École",
+     "m": 377
+    },
+    {
+     "name": "British International School of Tunis",
+     "kind": "École",
+     "m": 1393
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hamdoun Larguech",
+     "kind": "Pharmacie",
+     "m": 96
+    },
+    {
+     "name": "Pharmacie Bayoudh",
+     "kind": "Pharmacie",
+     "m": 1387
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Les cygnes",
+     "kind": "Café",
+     "m": 58
+    },
+    {
+     "name": "Leaf's",
+     "kind": "Café",
+     "m": 408
+    },
+    {
+     "name": "Golf de Carthage",
+     "kind": "Restaurant",
+     "m": 508
+    },
+    {
+     "name": "Café",
+     "kind": "Café",
+     "m": 523
+    }
+   ]
+  }
+ },
+ "La perle du lac (lac 3)|La Marsa": {
+  "lat": 36.84794,
+  "lng": 10.27258,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Ephoria",
+     "kind": "Boulangerie",
+     "m": 432
+    },
+    {
+     "name": "Carrefour Market",
+     "kind": "Supermarché",
+     "m": 548
+    },
+    {
+     "name": "TUNISIA Mall",
+     "kind": "Supermarché",
+     "m": 575
+    },
+    {
+     "name": "Tunisia Mall",
+     "kind": "Centre commercial",
+     "m": 578
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Pilote Les Berges Du Lac",
+     "kind": "École",
+     "m": 89
+    },
+    {
+     "name": "L'Academie du Lac",
+     "kind": "École",
+     "m": 109
+    },
+    {
+     "name": "Mediterranean School of Business",
+     "kind": "Université",
+     "m": 388
+    },
+    {
+     "name": "MSB - MEDTECH",
+     "kind": "Université",
+     "m": 388
+    }
+   ],
+   "sante": [
+    {
+     "name": "PHARMACIE DE LA BOURSE",
+     "kind": "Pharmacie",
+     "m": 141
+    },
+    {
+     "name": "Lac Medical Center",
+     "kind": "Cabinet médical",
+     "m": 1022
+    },
+    {
+     "name": "Clinique Myron",
+     "kind": "Clinique",
+     "m": 1022
+    },
+    {
+     "name": "Pharmacie les Pins",
+     "kind": "Pharmacie",
+     "m": 1032
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Via Mercato",
+     "kind": "Restaurant",
+     "m": 233
+    },
+    {
+     "name": "Citezen ship",
+     "kind": "Café",
+     "m": 239
+    },
+    {
+     "name": "Break time",
+     "kind": "Café",
+     "m": 239
+    },
+    {
+     "name": "Pizza américaine",
+     "kind": "Restaurant",
+     "m": 295
+    }
+   ]
+  }
+ },
+ "Les berges du lac 1|La Marsa": {
+  "lat": 36.83509,
+  "lng": 10.23884,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix - Berges du Lac",
+     "kind": "Supermarché",
+     "m": 382
+    },
+    {
+     "name": "العلاني ELECTROFROID ALLANI",
+     "kind": "Grand magasin",
+     "m": 751
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Polytech-Intl",
+     "kind": "Université",
+     "m": 664
+    },
+    {
+     "name": "École Primaire Les Berges du Lac",
+     "kind": "École",
+     "m": 668
+    },
+    {
+     "name": "Mediterranean School of Business",
+     "kind": "Lycée / Institut",
+     "m": 848
+    }
+   ],
+   "sante": [
+    {
+     "name": "Clinique Ophtalmologique du Lac de Tunis",
+     "kind": "Clinique",
+     "m": 239
+    },
+    {
+     "name": "Pharmacie du Lac",
+     "kind": "Pharmacie",
+     "m": 245
+    },
+    {
+     "name": "clinique internationale d'ophtalmologie",
+     "kind": "Clinique",
+     "m": 272
+    },
+    {
+     "name": "معهد البصر والشبكية",
+     "kind": "Clinique",
+     "m": 506
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Lemdina",
+     "kind": "Restaurant",
+     "m": 95
+    },
+    {
+     "name": "Barista's Cafe",
+     "kind": "Café",
+     "m": 213
+    },
+    {
+     "name": "Bricks",
+     "kind": "Restaurant",
+     "m": 225
+    },
+    {
+     "name": "Portofino",
+     "kind": "Restaurant",
+     "m": 266
+    }
+   ]
+  }
+ },
+ "Les berges du lac 2|La Marsa": {
+  "lat": 36.83509,
+  "lng": 10.23884,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix - Berges du Lac",
+     "kind": "Supermarché",
+     "m": 382
+    },
+    {
+     "name": "العلاني ELECTROFROID ALLANI",
+     "kind": "Grand magasin",
+     "m": 751
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Polytech-Intl",
+     "kind": "Université",
+     "m": 664
+    },
+    {
+     "name": "École Primaire Les Berges du Lac",
+     "kind": "École",
+     "m": 668
+    },
+    {
+     "name": "Mediterranean School of Business",
+     "kind": "Lycée / Institut",
+     "m": 848
+    }
+   ],
+   "sante": [
+    {
+     "name": "Clinique Ophtalmologique du Lac de Tunis",
+     "kind": "Clinique",
+     "m": 239
+    },
+    {
+     "name": "Pharmacie du Lac",
+     "kind": "Pharmacie",
+     "m": 245
+    },
+    {
+     "name": "clinique internationale d'ophtalmologie",
+     "kind": "Clinique",
+     "m": 272
+    },
+    {
+     "name": "معهد البصر والشبكية",
+     "kind": "Clinique",
+     "m": 506
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Lemdina",
+     "kind": "Restaurant",
+     "m": 95
+    },
+    {
+     "name": "Barista's Cafe",
+     "kind": "Café",
+     "m": 213
+    },
+    {
+     "name": "Bricks",
+     "kind": "Restaurant",
+     "m": 225
+    },
+    {
+     "name": "Portofino",
+     "kind": "Restaurant",
+     "m": 266
+    }
+   ]
+  }
+ },
+ "Les jardins de Carthage|El Kram": {
+  "lat": 36.85969,
+  "lng": 10.3051,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Alimentation General",
+     "kind": "Épicerie",
+     "m": 901
+    },
+    {
+     "name": "Carrefour",
+     "kind": "Centre commercial",
+     "m": 1020
+    },
+    {
+     "name": "Carrefour Caisse Central",
+     "kind": "Supermarché",
+     "m": 1033
+    },
+    {
+     "name": "FNAC",
+     "kind": "Supermarché",
+     "m": 1096
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École International de Carthage (ISC)",
+     "kind": "École",
+     "m": 76
+    },
+    {
+     "name": "École Sidi Daoud",
+     "kind": "École",
+     "m": 569
+    },
+    {
+     "name": "École Primaire Bouebdelli",
+     "kind": "École",
+     "m": 1345
+    },
+    {
+     "name": "École Primaire el Yaasmina",
+     "kind": "École",
+     "m": 1374
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pediatre Mariem Darghouth",
+     "kind": "Cabinet médical",
+     "m": 771
+    },
+    {
+     "name": "Dr Mokhtar Ben Yahia",
+     "kind": "Cabinet médical",
+     "m": 1264
+    },
+    {
+     "name": "Dr Lilia Bahrini Dabloun",
+     "kind": "Cabinet médical",
+     "m": 1410
+    },
+    {
+     "name": "Pharmacie Zied Ammar",
+     "kind": "Pharmacie",
+     "m": 1412
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Barista's Les Jardins de Carthage",
+     "kind": "Café",
+     "m": 535
+    },
+    {
+     "name": "Café l'Excellence",
+     "kind": "Café",
+     "m": 699
+    },
+    {
+     "name": "Cafeteria Mosaique",
+     "kind": "Café",
+     "m": 818
+    },
+    {
+     "name": "Biwaï",
+     "kind": "Café",
+     "m": 987
+    }
+   ]
+  }
+ },
+ "Marina Gammarth|La Marsa": {
+  "lat": 36.92082,
+  "lng": 10.30775,
+  "precise": true,
+  "places": {
+   "loisirs": [
+    {
+     "name": "Bellini",
+     "kind": "Restaurant",
+     "m": 964
+    },
+    {
+     "name": "BLU Bar & Grill",
+     "kind": "Restaurant",
+     "m": 1120
+    },
+    {
+     "name": "Pomodoro",
+     "kind": "Restaurant",
+     "m": 1124
+    },
+    {
+     "name": "Club de Gammarth",
+     "kind": "Salle de sport",
+     "m": 1325
+    }
+   ]
+  }
+ },
+ "Marsa Cube|La Marsa": {
+  "lat": 36.88775,
+  "lng": 10.32751,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "El Mazraa",
+     "kind": "Supermarché",
+     "m": 408
+    },
+    {
+     "name": "Patisserie L'ouhichi",
+     "kind": "Boulangerie",
+     "m": 417
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 453
+    },
+    {
+     "name": "Marché Central La Marsa",
+     "kind": "Marché",
+     "m": 507
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire de la rue des Roses",
+     "kind": "École",
+     "m": 225
+    },
+    {
+     "name": "Collège Taieb Mhiri",
+     "kind": "École",
+     "m": 619
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 670
+    },
+    {
+     "name": "École Primaire Bourguiba",
+     "kind": "École",
+     "m": 759
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Lobna Bouaziz Borji",
+     "kind": "Pharmacie",
+     "m": 415
+    },
+    {
+     "name": "Pharmacie Annabi",
+     "kind": "Pharmacie",
+     "m": 439
+    },
+    {
+     "name": "Group Practice Dr. Chaïbi & Dr. Ben Mansour",
+     "kind": "Dentiste",
+     "m": 475
+    },
+    {
+     "name": "Imene Ezzine Ghannouchi",
+     "kind": "Pharmacie",
+     "m": 485
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 770
+    },
+    {
+     "name": "La Corniche",
+     "kind": "Gare",
+     "m": 1378
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Piscine Municipale de la Marsa",
+     "kind": "Complexe sportif",
+     "m": 314
+    },
+    {
+     "name": "Salon de thé l'Opéra",
+     "kind": "Café",
+     "m": 383
+    },
+    {
+     "name": "Geek",
+     "kind": "Café",
+     "m": 390
+    },
+    {
+     "name": "Chez Belha",
+     "kind": "Café",
+     "m": 403
+    }
+   ]
+  }
+ },
+ "Marsa Erriadh|La Marsa": {
+  "lat": 36.87498,
+  "lng": 10.30927,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Kiosque Route 66",
+     "kind": "Épicerie",
+     "m": 27
+    },
+    {
+     "name": "Smiley Shop",
+     "kind": "Épicerie",
+     "m": 135
+    },
+    {
+     "name": "Big 7",
+     "kind": "Boulangerie",
+     "m": 146
+    },
+    {
+     "name": "Mak Drugstore",
+     "kind": "Épicerie",
+     "m": 158
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "English International School of Tunis",
+     "kind": "École",
+     "m": 361
+    },
+    {
+     "name": "École Mouhamed Ali Tabec",
+     "kind": "École",
+     "m": 368
+    },
+    {
+     "name": "كلية",
+     "kind": "Lycée / Institut",
+     "m": 1262
+    },
+    {
+     "name": "École Sidi Daoud",
+     "kind": "École",
+     "m": 1321
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hela Rokbi",
+     "kind": "Pharmacie",
+     "m": 888
+    },
+    {
+     "name": "Pediatre Mariem Darghouth",
+     "kind": "Cabinet médical",
+     "m": 971
+    },
+    {
+     "name": "Clinique Sidi Salah",
+     "kind": "Clinique",
+     "m": 1404
+    },
+    {
+     "name": "Pharmacie Ali Farhat",
+     "kind": "Pharmacie",
+     "m": 1471
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Mykonos",
+     "kind": "Café",
+     "m": 121
+    },
+    {
+     "name": "Black Coffee",
+     "kind": "Café",
+     "m": 135
+    },
+    {
+     "name": "The Synergy",
+     "kind": "Salle de sport",
+     "m": 139
+    },
+    {
+     "name": "Big 7",
+     "kind": "Café",
+     "m": 143
+    }
+   ]
+  }
+ },
+ "Marsa plage|La Marsa": {
+  "lat": 36.89389,
+  "lng": 10.32169,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix Express",
+     "kind": "Supermarché",
+     "m": 462
+    },
+    {
+     "name": "El Hana",
+     "kind": "Boulangerie",
+     "m": 728
+    },
+    {
+     "name": "Souk Bouselsla",
+     "kind": "Marché",
+     "m": 883
+    },
+    {
+     "name": "Ben Yaghlane La Marsa",
+     "kind": "Supermarché",
+     "m": 891
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Marsa El Riadh",
+     "kind": "Lycée / Institut",
+     "m": 758
+    },
+    {
+     "name": "École Primaire de la rue des Roses",
+     "kind": "École",
+     "m": 900
+    },
+    {
+     "name": "Ecole Superieure de l'Audiovisuel et du Cinema",
+     "kind": "Lycée / Institut",
+     "m": 992
+    },
+    {
+     "name": "École Farhat Hached",
+     "kind": "École",
+     "m": 1214
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Annabi",
+     "kind": "Pharmacie",
+     "m": 863
+    },
+    {
+     "name": "Pharmacie Lobna Bouaziz Borji",
+     "kind": "Pharmacie",
+     "m": 905
+    },
+    {
+     "name": "Pharmacie Ali Farhat",
+     "kind": "Pharmacie",
+     "m": 1043
+    },
+    {
+     "name": "Pharmacie Rouge Corail",
+     "kind": "Pharmacie",
+     "m": 1303
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Plage",
+     "m": 316
+    },
+    {
+     "name": "Oxygene fitness Gammarth",
+     "kind": "Complexe sportif",
+     "m": 463
+    },
+    {
+     "name": "Café Journal",
+     "kind": "Café",
+     "m": 478
+    },
+    {
+     "name": "Blues House",
+     "kind": "Restaurant",
+     "m": 505
+    }
+   ]
+  }
+ },
+ "Marsa ville|La Marsa": {
+  "lat": 36.88038,
+  "lng": 10.32681,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Karma Bio",
+     "kind": "Épicerie",
+     "m": 72
+    },
+    {
+     "name": "Le Coin du Bio",
+     "kind": "Épicerie",
+     "m": 83
+    },
+    {
+     "name": "Crousty-Creux",
+     "kind": "Boulangerie",
+     "m": 122
+    },
+    {
+     "name": "ChoPain",
+     "kind": "Boulangerie",
+     "m": 443
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire Bourguiba",
+     "kind": "École",
+     "m": 85
+    },
+    {
+     "name": "Collège Fadhhel Ben Achour",
+     "kind": "École",
+     "m": 135
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 189
+    },
+    {
+     "name": "Collège Taieb Mhiri",
+     "kind": "École",
+     "m": 207
+    }
+   ],
+   "sante": [
+    {
+     "name": "Cabinet de médecine dentaire Dr Mohamed Raïssi & Maroua Chtioui",
+     "kind": "Cabinet médical",
+     "m": 116
+    },
+    {
+     "name": "Docteur Nabil Hanayen",
+     "kind": "Cabinet médical",
+     "m": 146
+    },
+    {
+     "name": "Pharmacie ibtissem Rais Zouiten",
+     "kind": "Pharmacie",
+     "m": 183
+    },
+    {
+     "name": "Dentiste",
+     "kind": "Dentiste",
+     "m": 205
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 669
+    },
+    {
+     "name": "La Corniche",
+     "kind": "Gare",
+     "m": 1114
+    },
+    {
+     "name": "Sidi Dhrif",
+     "kind": "Gare",
+     "m": 1261
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Origami",
+     "kind": "Restaurant",
+     "m": 81
+    },
+    {
+     "name": "L'Arbre a Couscous",
+     "kind": "Restaurant",
+     "m": 83
+    },
+    {
+     "name": "Yabon",
+     "kind": "Restaurant",
+     "m": 85
+    },
+    {
+     "name": "The King",
+     "kind": "Café",
+     "m": 96
+    }
+   ]
+  }
+ },
+ "Meghira Inzel|Fouchana": {
+  "lat": 36.69872,
+  "lng": 10.16936,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Marché Fouchana",
+     "kind": "Marché",
+     "m": 70
+    },
+    {
+     "name": "gerefa market",
+     "kind": "Épicerie",
+     "m": 83
+    },
+    {
+     "name": "بيع توابل وادوات عطرية بالجملة",
+     "kind": "Supermarché",
+     "m": 100
+    },
+    {
+     "name": "supérette غدامسي",
+     "kind": "Épicerie",
+     "m": 101
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire fouchana 1",
+     "kind": "École",
+     "m": 114
+    },
+    {
+     "name": "École Primaire El wala fouchana",
+     "kind": "École",
+     "m": 321
+    },
+    {
+     "name": "Collège privé l'altesse",
+     "kind": "École",
+     "m": 441
+    },
+    {
+     "name": "المعهد الثانوي الخاص المتنبي",
+     "kind": "École",
+     "m": 451
+    }
+   ],
+   "sante": [
+    {
+     "name": "centre medika",
+     "kind": "Clinique",
+     "m": 86
+    },
+    {
+     "name": "طبيب الحكيم منوبي الظاهري",
+     "kind": "Cabinet médical",
+     "m": 93
+    },
+    {
+     "name": "صيدلية ليلى عزيز",
+     "kind": "Pharmacie",
+     "m": 114
+    },
+    {
+     "name": "dr hichem nakawi",
+     "kind": "Cabinet médical",
+     "m": 134
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "قهوة الورتاني",
+     "kind": "Café",
+     "m": 30
+    },
+    {
+     "name": "مطعم المدينة",
+     "kind": "Restaurant",
+     "m": 43
+    },
+    {
+     "name": "مطعم الريان",
+     "kind": "Restaurant",
+     "m": 62
+    },
+    {
+     "name": "مطعم التلامين",
+     "kind": "Restaurant",
+     "m": 83
+    }
+   ]
+  }
+ },
+ "Mosque Erraoudha|La Soukra": {
+  "lat": 36.87498,
+  "lng": 10.24543,
+  "precise": false,
+  "places": {
+   "ecoles": [
+    {
+     "name": "Lycée soukra",
+     "kind": "École",
+     "m": 377
+    },
+    {
+     "name": "British International School of Tunis",
+     "kind": "École",
+     "m": 1393
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Hamdoun Larguech",
+     "kind": "Pharmacie",
+     "m": 96
+    },
+    {
+     "name": "Pharmacie Bayoudh",
+     "kind": "Pharmacie",
+     "m": 1387
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Les cygnes",
+     "kind": "Café",
+     "m": 58
+    },
+    {
+     "name": "Leaf's",
+     "kind": "Café",
+     "m": 408
+    },
+    {
+     "name": "Golf de Carthage",
+     "kind": "Restaurant",
+     "m": 508
+    },
+    {
+     "name": "Café",
+     "kind": "Café",
+     "m": 523
+    }
+   ]
+  }
+ },
+ "Mutuelle Ville|El Menzah": {
+  "lat": 36.82929,
+  "lng": 10.16576,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Supérette 7 lina shop",
+     "kind": "Épicerie",
+     "m": 299
+    },
+    {
+     "name": "superette",
+     "kind": "Supermarché",
+     "m": 370
+    },
+    {
+     "name": "Supérette Place Mendès France",
+     "kind": "Épicerie",
+     "m": 637
+    },
+    {
+     "name": "Supérette 8",
+     "kind": "Épicerie",
+     "m": 819
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Beau-Site",
+     "kind": "École",
+     "m": 504
+    },
+    {
+     "name": "École Primaire Mendès France",
+     "kind": "École",
+     "m": 638
+    },
+    {
+     "name": "École Libyenne",
+     "kind": "École",
+     "m": 686
+    },
+    {
+     "name": "Centre Universitaire Haroun El Rachid",
+     "kind": "École",
+     "m": 807
+    }
+   ],
+   "sante": [
+    {
+     "name": "Jugurtha Medical",
+     "kind": "Cabinet médical",
+     "m": 348
+    },
+    {
+     "name": "PHARMACIE MENDES FRANCE",
+     "kind": "Pharmacie",
+     "m": 644
+    },
+    {
+     "name": "Pharmacie Fennira Taoufik",
+     "kind": "Pharmacie",
+     "m": 790
+    },
+    {
+     "name": "Clinique Saint Augustin",
+     "kind": "Clinique",
+     "m": 899
+    }
+   ],
+   "transports": [
+    {
+     "name": "محطة المنار1",
+     "kind": "Gare routière",
+     "m": 1337
+    },
+    {
+     "name": "Rommana",
+     "kind": "Gare",
+     "m": 1471
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café Patisserie Faycal",
+     "kind": "Café",
+     "m": 452
+    },
+    {
+     "name": "Munchies",
+     "kind": "Restaurant",
+     "m": 632
+    },
+    {
+     "name": "Parc du Belvédère",
+     "kind": "Parc",
+     "m": 721
+    },
+    {
+     "name": "Café Davinci",
+     "kind": "Café",
+     "m": 814
+    }
+   ]
+  }
+ },
+ "Nouvelle Ariana|Ariana Ville": {
+  "lat": 36.85127,
+  "lng": 10.18529,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Carrefour",
+     "kind": "Supermarché",
+     "m": 645
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 654
+    },
+    {
+     "name": "بيع العسل يعيش",
+     "kind": "Épicerie",
+     "m": 992
+    },
+    {
+     "name": "Boulangerie Mefteh",
+     "kind": "Boulangerie",
+     "m": 1002
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Kheireddine",
+     "kind": "Lycée / Institut",
+     "m": 50
+    },
+    {
+     "name": "Lycée Technique Hannibal",
+     "kind": "Lycée / Institut",
+     "m": 220
+    },
+    {
+     "name": "École Primaire El Kehna",
+     "kind": "École",
+     "m": 364
+    },
+    {
+     "name": "École Primaire Farhat Hached",
+     "kind": "École",
+     "m": 631
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Centre Kobbi",
+     "kind": "Pharmacie",
+     "m": 301
+    },
+    {
+     "name": "Cabinet Dentaire Dr. Skander Marouane",
+     "kind": "Dentiste",
+     "m": 463
+    },
+    {
+     "name": "Dr halleb monsef",
+     "kind": "Cabinet médical",
+     "m": 754
+    },
+    {
+     "name": "Pharmacie Sana Ghroubi Ep. Chaabane",
+     "kind": "Pharmacie",
+     "m": 791
+    }
+   ],
+   "transports": [
+    {
+     "name": "10 Decembre 1984",
+     "kind": "Gare",
+     "m": 761
+    },
+    {
+     "name": "10 Décembre 1948",
+     "kind": "Gare",
+     "m": 788
+    },
+    {
+     "name": "Cité des sciences",
+     "kind": "Arrêt TGM / train",
+     "m": 790
+    },
+    {
+     "name": "L'Indépendance",
+     "kind": "Gare",
+     "m": 1007
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "cafe des pyramides",
+     "kind": "Café",
+     "m": 149
+    },
+    {
+     "name": "cafe erriadh",
+     "kind": "Café",
+     "m": 179
+    },
+    {
+     "name": "kafteji am adel",
+     "kind": "Restaurant",
+     "m": 203
+    },
+    {
+     "name": "After Work",
+     "kind": "Café",
+     "m": 350
+    }
+   ]
+  }
+ },
+ "Raoued|Raoued": {
+  "lat": 36.9536,
+  "lng": 10.18919,
+  "precise": true,
+  "places": {}
+ },
+ "Riadh Landlous|Ariana Ville": {
+  "lat": 36.86569,
+  "lng": 10.16873,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Bon goût",
+     "kind": "Boulangerie",
+     "m": 429
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 581
+    },
+    {
+     "name": "Pâtisserie Ennaser",
+     "kind": "Boulangerie",
+     "m": 698
+    },
+    {
+     "name": "Marché Central de El Menzah",
+     "kind": "Marché",
+     "m": 1053
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "المدرسة الابتدائية النصر 1 اريانة",
+     "kind": "École",
+     "m": 356
+    },
+    {
+     "name": "Collège",
+     "kind": "École",
+     "m": 566
+    },
+    {
+     "name": "Collège Riadh Ennasr Ariana",
+     "kind": "École",
+     "m": 594
+    },
+    {
+     "name": "Jawaher",
+     "kind": "Jardin d'enfants",
+     "m": 600
+    }
+   ],
+   "sante": [
+    {
+     "name": "Dr Yacine Ben Safta",
+     "kind": "Cabinet médical",
+     "m": 252
+    },
+    {
+     "name": "Polyclinique Amilcar",
+     "kind": "Clinique",
+     "m": 442
+    },
+    {
+     "name": "Hôpital Ibn Nafis",
+     "kind": "Hôpital",
+     "m": 825
+    },
+    {
+     "name": "مجمع كمون الطبي حي النصر",
+     "kind": "Clinique",
+     "m": 963
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "La Phalene",
+     "kind": "Café",
+     "m": 209
+    },
+    {
+     "name": "Cabana Cafe",
+     "kind": "Café",
+     "m": 221
+    },
+    {
+     "name": "La Luna",
+     "kind": "Café",
+     "m": 237
+    },
+    {
+     "name": "Origami Sushi Bar",
+     "kind": "Restaurant",
+     "m": 295
+    }
+   ]
+  }
+ },
+ "Route du relais|La Marsa": {
+  "lat": 36.87909,
+  "lng": 10.32768,
+  "precise": false,
+  "places": {
+   "commerces": [
+    {
+     "name": "Karma Bio",
+     "kind": "Épicerie",
+     "m": 131
+    },
+    {
+     "name": "Le Coin du Bio",
+     "kind": "Épicerie",
+     "m": 139
+    },
+    {
+     "name": "Crousty-Creux",
+     "kind": "Boulangerie",
+     "m": 219
+    },
+    {
+     "name": "ChoPain",
+     "kind": "Boulangerie",
+     "m": 307
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Collège Fadhhel Ben Achour",
+     "kind": "École",
+     "m": 159
+    },
+    {
+     "name": "École Primaire privée Amilcar",
+     "kind": "École",
+     "m": 194
+    },
+    {
+     "name": "École Primaire Bourguiba",
+     "kind": "École",
+     "m": 205
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 353
+    }
+   ],
+   "sante": [
+    {
+     "name": "Docteur Nabil Hanayen",
+     "kind": "Cabinet médical",
+     "m": 35
+    },
+    {
+     "name": "Cabinet de médecine dentaire Dr Mohamed Raïssi & Maroua Chtioui",
+     "kind": "Cabinet médical",
+     "m": 80
+    },
+    {
+     "name": "Dentiste",
+     "kind": "Dentiste",
+     "m": 93
+    },
+    {
+     "name": "Docteur Ftouh Gynécologie",
+     "kind": "Cabinet médical",
+     "m": 192
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 677
+    },
+    {
+     "name": "La Corniche",
+     "kind": "Gare",
+     "m": 1036
+    },
+    {
+     "name": "Sidi Dhrif",
+     "kind": "Gare",
+     "m": 1135
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café el Alia",
+     "kind": "Café",
+     "m": 40
+    },
+    {
+     "name": "Ala Turka",
+     "kind": "Restaurant",
+     "m": 70
+    },
+    {
+     "name": "L'Arbre a Couscous",
+     "kind": "Restaurant",
+     "m": 99
+    },
+    {
+     "name": "Chez Zina",
+     "kind": "Restaurant",
+     "m": 115
+    }
+   ]
+  }
+ },
+ "Salambo|Carthage": {
+  "lat": 36.83893,
+  "lng": 10.31734,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Carrefour Express Kram",
+     "kind": "Épicerie",
+     "m": 169
+    },
+    {
+     "name": "épicerie Salambo",
+     "kind": "Épicerie",
+     "m": 253
+    },
+    {
+     "name": "MG 5 décembre",
+     "kind": "Supermarché",
+     "m": 473
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Supermarché",
+     "m": 822
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Lycée Assad Ibn Fourat",
+     "kind": "École",
+     "m": 648
+    },
+    {
+     "name": "Lycée Byrsa",
+     "kind": "École",
+     "m": 774
+    },
+    {
+     "name": "مدرسة الجاحظ",
+     "kind": "École",
+     "m": 847
+    },
+    {
+     "name": "École Centrale Polytechnique Privée de Tunis",
+     "kind": "Université",
+     "m": 995
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Darmoul",
+     "kind": "Pharmacie",
+     "m": 312
+    },
+    {
+     "name": "Pharmacie Najjar",
+     "kind": "Pharmacie",
+     "m": 975
+    },
+    {
+     "name": "Hôpital Kheireddine",
+     "kind": "Hôpital",
+     "m": 1097
+    }
+   ],
+   "transports": [
+    {
+     "name": "Le Kram",
+     "kind": "Gare",
+     "m": 294
+    },
+    {
+     "name": "Carthage Salammbô",
+     "kind": "Gare",
+     "m": 347
+    },
+    {
+     "name": "L'Aéroport",
+     "kind": "Gare",
+     "m": 826
+    },
+    {
+     "name": "Carthage Byrsa",
+     "kind": "Gare",
+     "m": 905
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "WOODS : Pizza & Sandwich",
+     "kind": "Restaurant",
+     "m": 149
+    },
+    {
+     "name": "Stade du Kram",
+     "kind": "Complexe sportif",
+     "m": 197
+    },
+    {
+     "name": "Café Villagio",
+     "kind": "Café",
+     "m": 295
+    },
+    {
+     "name": "Plage Salambo",
+     "kind": "Plage",
+     "m": 686
+    }
+   ]
+  }
+ },
+ "Sidi Bousaid|Carthage": {
+  "lat": 36.86687,
+  "lng": 10.34957,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Chez Tigana",
+     "kind": "Supermarché",
+     "m": 508
+    },
+    {
+     "name": "MG Proxi",
+     "kind": "Supermarché",
+     "m": 645
+    },
+    {
+     "name": "marché sidi bou said",
+     "kind": "Marché",
+     "m": 652
+    },
+    {
+     "name": "boulangerie sidi bou said",
+     "kind": "Boulangerie",
+     "m": 676
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Garderie l'Ange",
+     "kind": "Jardin d'enfants",
+     "m": 465
+    },
+    {
+     "name": "Institut Superieur d'Hotelerie et de Tourisme de Sidi Dhrif",
+     "kind": "Lycée / Institut",
+     "m": 1114
+    },
+    {
+     "name": "École Primaire carthage amilcar",
+     "kind": "École",
+     "m": 1139
+    },
+    {
+     "name": "Institut des Hautes Etudes Commerciales de Carthage (IHEC Carthage)",
+     "kind": "Université",
+     "m": 1169
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Bassem Miled",
+     "kind": "Pharmacie",
+     "m": 617
+    },
+    {
+     "name": "Pharmacie de Nuit Houissa",
+     "kind": "Pharmacie",
+     "m": 652
+    },
+    {
+     "name": "Pharmacie Taieb",
+     "kind": "Pharmacie",
+     "m": 1172
+    }
+   ],
+   "transports": [
+    {
+     "name": "Sidi Bou Saïd",
+     "kind": "Gare",
+     "m": 785
+    },
+    {
+     "name": "Carthage Amilcar",
+     "kind": "Gare",
+     "m": 1073
+    },
+    {
+     "name": "Sidi Dhrif",
+     "kind": "Gare",
+     "m": 1319
+    },
+    {
+     "name": "Carthage Présidence",
+     "kind": "Gare",
+     "m": 1417
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café Plage Sidi Bousaid",
+     "kind": "Café",
+     "m": 0
+    },
+    {
+     "name": "Club Nautique de Sidi bou Said",
+     "kind": "Complexe sportif",
+     "m": 118
+    },
+    {
+     "name": "Le Pirate",
+     "kind": "Restaurant",
+     "m": 174
+    },
+    {
+     "name": "Le Glacier",
+     "kind": "Café",
+     "m": 219
+    }
+   ]
+  }
+ },
+ "Sidi Daoud|La Marsa": {
+  "lat": 36.86487,
+  "lng": 10.3073,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Alimentation General",
+     "kind": "Épicerie",
+     "m": 392
+    },
+    {
+     "name": "Magazin Général - MG Maxi",
+     "kind": "Supermarché",
+     "m": 618
+    },
+    {
+     "name": "Marsa Mall",
+     "kind": "Centre commercial",
+     "m": 627
+    },
+    {
+     "name": "Les Co'pains d'Abord",
+     "kind": "Boulangerie",
+     "m": 675
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Sidi Daoud",
+     "kind": "École",
+     "m": 424
+    },
+    {
+     "name": "École International de Carthage (ISC)",
+     "kind": "École",
+     "m": 618
+    },
+    {
+     "name": "English International School of Tunis",
+     "kind": "École",
+     "m": 821
+    },
+    {
+     "name": "École Primaire Bouebdelli",
+     "kind": "École",
+     "m": 1148
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pediatre Mariem Darghouth",
+     "kind": "Cabinet médical",
+     "m": 171
+    },
+    {
+     "name": "Dr Mokhtar Ben Yahia",
+     "kind": "Cabinet médical",
+     "m": 1390
+    },
+    {
+     "name": "CHU Mongi Slim",
+     "kind": "Hôpital",
+     "m": 1448
+    },
+    {
+     "name": "Dr Lilia Bahrini Dabloun",
+     "kind": "Cabinet médical",
+     "m": 1488
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café l'Excellence",
+     "kind": "Café",
+     "m": 204
+    },
+    {
+     "name": "Cafeteria Mosaique",
+     "kind": "Café",
+     "m": 285
+    },
+    {
+     "name": "Biwaï",
+     "kind": "Café",
+     "m": 398
+    },
+    {
+     "name": "Restaurant \"Le Relais\"",
+     "kind": "Restaurant",
+     "m": 755
+    }
+   ]
+  }
+ },
+ "Sidi abdelaziz|La Marsa": {
+  "lat": 36.88947,
+  "lng": 10.32424,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Monoprix Express",
+     "kind": "Supermarché",
+     "m": 268
+    },
+    {
+     "name": "El Hana",
+     "kind": "Boulangerie",
+     "m": 503
+    },
+    {
+     "name": "Le Royame des Epices",
+     "kind": "Épicerie",
+     "m": 582
+    },
+    {
+     "name": "Ben Yaghlane La Marsa",
+     "kind": "Supermarché",
+     "m": 721
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "École Primaire de la rue des Roses",
+     "kind": "École",
+     "m": 361
+    },
+    {
+     "name": "Collège Taieb Mhiri",
+     "kind": "École",
+     "m": 831
+    },
+    {
+     "name": "Lycée Marsa El Riadh",
+     "kind": "Lycée / Institut",
+     "m": 837
+    },
+    {
+     "name": "École Primaire Taieb Mhiri",
+     "kind": "École",
+     "m": 856
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Annabi",
+     "kind": "Pharmacie",
+     "m": 382
+    },
+    {
+     "name": "Pharmacie Lobna Bouaziz Borji",
+     "kind": "Pharmacie",
+     "m": 406
+    },
+    {
+     "name": "Pharmacie Ali Farhat",
+     "kind": "Pharmacie",
+     "m": 633
+    },
+    {
+     "name": "Pharmacie Rouge Corail",
+     "kind": "Pharmacie",
+     "m": 785
+    }
+   ],
+   "transports": [
+    {
+     "name": "La Marsa Plage",
+     "kind": "Gare",
+     "m": 1114
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Blues House",
+     "kind": "Restaurant",
+     "m": 159
+    },
+    {
+     "name": "Blue House cafe",
+     "kind": "Café",
+     "m": 165
+    },
+    {
+     "name": "3am Hbib",
+     "kind": "Restaurant",
+     "m": 199
+    },
+    {
+     "name": "Laa Marggherita",
+     "kind": "Restaurant",
+     "m": 229
+    }
+   ]
+  }
+ },
+ "Tunis centre ville|Tunis": {
+  "lat": 36.80049,
+  "lng": 10.18533,
+  "precise": true,
+  "places": {
+   "commerces": [
+    {
+     "name": "Azaza",
+     "kind": "Supermarché",
+     "m": 87
+    },
+    {
+     "name": "Vita Sport",
+     "kind": "Centre commercial",
+     "m": 178
+    },
+    {
+     "name": "Monoprix",
+     "kind": "Épicerie",
+     "m": 220
+    },
+    {
+     "name": "Central Park",
+     "kind": "Centre commercial",
+     "m": 236
+    }
+   ],
+   "ecoles": [
+    {
+     "name": "Ordre des Ingénieurs Tunisiens",
+     "kind": "Université",
+     "m": 188
+    },
+    {
+     "name": "المدرسة الابتدائية شارع بتريس",
+     "kind": "École",
+     "m": 332
+    },
+    {
+     "name": "IPST",
+     "kind": "Université",
+     "m": 405
+    },
+    {
+     "name": "Collège de la Rue de Lénine",
+     "kind": "Lycée / Institut",
+     "m": 409
+    }
+   ],
+   "sante": [
+    {
+     "name": "Pharmacie Centrale",
+     "kind": "Pharmacie",
+     "m": 349
+    },
+    {
+     "name": "Pharmacie Ladhari Samira",
+     "kind": "Pharmacie",
+     "m": 362
+    },
+    {
+     "name": "Docteur Battikh Jameleddine",
+     "kind": "Dentiste",
+     "m": 404
+    },
+    {
+     "name": "Ordre des Médecins Dentistes de Tunisie",
+     "kind": "Hôpital",
+     "m": 515
+    }
+   ],
+   "transports": [
+    {
+     "name": "Habib Bourguiba",
+     "kind": "Gare",
+     "m": 117
+    },
+    {
+     "name": "Farhat Hached",
+     "kind": "Gare",
+     "m": 297
+    },
+    {
+     "name": "Ibn Rachiq",
+     "kind": "Arrêt TGM / train",
+     "m": 370
+    },
+    {
+     "name": "محطة المدي",
+     "kind": "Gare routière",
+     "m": 451
+    }
+   ],
+   "loisirs": [
+    {
+     "name": "Café La Fontaine",
+     "kind": "Café",
+     "m": 21
+    },
+    {
+     "name": "Caffé El Maktoub",
+     "kind": "Café",
+     "m": 53
+    },
+    {
+     "name": "First Cup",
+     "kind": "Café",
+     "m": 60
+    },
+    {
+     "name": "Place du 14 Janvier 2011",
+     "kind": "Parc",
+     "m": 82
+    }
+   ]
+  }
  }
 }
